@@ -1,0 +1,26 @@
+=================================================
+Project : chart_18	start : 18/10/24 15:28
+Current failed test : org.jfree.data.category.junit.DefaultCategoryDatasetTests::testBug1835955 | 18/10/24 15:28
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( index >= this . keys . size ( ) ) { 
+Time : 18/10/24 15:31
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( index <= this . keys . size ( ) ) { 
+Time : 18/10/24 15:31
+----------------------------------------
+Success time : 18/10/24 15:32
+Current failed test : org.jfree.data.junit.DefaultKeyedValuesTests::testRemoveValue_purify_3 | 18/10/24 15:32
+Timeout time : 18/10/24 15:39
+Current failed test : org.jfree.data.junit.DefaultKeyedValuesTests::testGetIndex2_purify_3 | 18/10/24 15:39
+Already fixed : org.jfree.data.junit.DefaultKeyedValuesTests::testGetIndex2_purify_3
+Current failed test : org.jfree.data.junit.DefaultKeyedValues2DTests::testRemoveColumnByKey_purify_1 | 18/10/24 15:39
+Already fixed : org.jfree.data.junit.DefaultKeyedValues2DTests::testRemoveColumnByKey_purify_1
+Current failed test : org.jfree.data.junit.DefaultKeyedValues2DTests::testRemoveColumnByKey_purify_2 | 18/10/24 15:39
+Timeout time : 18/10/24 15:45

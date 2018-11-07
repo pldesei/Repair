@@ -1,0 +1,10 @@
+=================================================
+Project : math_52	start : 18/10/26 03:33
+Current failed test : org.apache.commons.math.geometry.euclidean.threed.RotationTest::testIssue639_purify_1 | 18/10/26 03:34
+Timeout time : 18/10/26 03:52
+Current failed test : org.apache.commons.math.geometry.euclidean.threed.RotationTest::testIssue639_purify_2 | 18/10/26 03:52
+Timeout time : 18/10/26 04:10
+Current failed test : org.apache.commons.math.geometry.euclidean.threed.RotationTest::testIssue639_purify_3 | 18/10/26 04:10
+Timeout time : 18/10/26 04:27
+Current failed test : org.apache.commons.math.geometry.euclidean.threed.RotationTest::testIssue639_purify_4 | 18/10/26 04:27
+Timeout time : 18/10/26 04:44

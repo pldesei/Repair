@@ -1,0 +1,2 @@
+org.apache.commons.lang.Entities#String#unescape#?,String
+org.apache.commons.lang.Entities#void#unescape#?,Writer,String

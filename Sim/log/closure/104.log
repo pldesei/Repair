@@ -1,0 +1,11 @@
+=================================================
+Project : closure_104	start : 18/11/01 00:15
+Current failed test : com.google.javascript.rhino.jstype.UnionTypeTest::testGreatestSubtypeUnionTypes5 | 18/11/01 00:15
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( result == null ) { 
+Time : 18/11/01 00:38
+----------------------------------------
+Timeout time : 18/11/01 00:46

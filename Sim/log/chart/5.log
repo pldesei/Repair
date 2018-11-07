@@ -1,0 +1,11 @@
+=================================================
+Project : chart_5	start : 18/10/24 09:07
+Current failed test : org.jfree.data.xy.junit.XYSeriesTests::testBug1955483 | 18/10/24 09:07
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return addOrUpdate ( new Double ( y ) , new Double ( y ) ) ; 
+Time : 18/10/24 09:08
+----------------------------------------
+Success time : 18/10/24 09:09

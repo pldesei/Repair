@@ -1,0 +1,2 @@
+org.jfree.data.general.DatasetUtilities#Range#iterateDomainBounds#?,XYDataset,boolean
+org.jfree.data.general.DatasetUtilities#Range#iterateRangeBounds#?,XYDataset,boolean

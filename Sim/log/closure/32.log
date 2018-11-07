@@ -1,0 +1,10 @@
+=================================================
+Project : closure_32	start : 18/10/30 04:38
+Current failed test : com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testParseLicense | 18/10/30 04:39
+Timeout time : 18/10/30 04:48
+Current failed test : com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testParseLicenseAscii | 18/10/30 04:48
+Timeout time : 18/10/30 04:57
+Current failed test : com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testParsePreserve | 18/10/30 04:57
+Timeout time : 18/10/30 05:07
+Current failed test : com.google.javascript.jscomp.IntegrationTest::testIssue701 | 18/10/30 05:07
+Timeout time : 18/10/30 05:16

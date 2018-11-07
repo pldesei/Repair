@@ -1,0 +1,4 @@
+=================================================
+Project : closure_93	start : 18/10/31 11:30
+Current failed test : com.google.javascript.jscomp.ProcessClosurePrimitivesTest::testProvideInIndependentModules4 | 18/10/31 11:30
+Timeout time : 18/10/31 12:01

@@ -1,0 +1,4 @@
+=================================================
+Project : closure_38	start : 18/10/30 05:50
+Current failed test : com.google.javascript.jscomp.CodePrinterTest::testMinusNegativeZero | 18/10/30 05:50
+Timeout time : 18/10/30 06:21

@@ -1,0 +1,4 @@
+=================================================
+Project : lang_22	start : 18/10/27 22:26
+Current failed test : org.apache.commons.lang3.math.FractionTest::testReducedFactory_int_int | 18/10/27 22:26
+Timeout time : 18/10/27 22:59

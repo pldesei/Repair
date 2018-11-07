@@ -1,0 +1,4 @@
+=================================================
+Project : closure_24	start : 18/10/29 23:37
+Current failed test : com.google.javascript.jscomp.ScopedAliasesTest::testNonAliasLocal | 18/10/29 23:37
+Timeout time : 18/10/30 00:13

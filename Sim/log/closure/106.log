@@ -1,0 +1,10 @@
+=================================================
+Project : closure_106	start : 18/10/31 22:57
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testTwinReferenceCancelsChildCollapsing | 18/10/31 22:57
+Timeout time : 18/10/31 23:06
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testCrashInNestedAssign | 18/10/31 23:06
+Timeout time : 18/10/31 23:14
+Current failed test : com.google.javascript.jscomp.CheckSideEffectsTest::testJSDocComments | 18/10/31 23:14
+Timeout time : 18/10/31 23:22
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testCrashInCommaOperator | 18/10/31 23:22
+Timeout time : 18/10/31 23:31

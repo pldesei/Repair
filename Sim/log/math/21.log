@@ -1,0 +1,6 @@
+=================================================
+Project : math_21	start : 18/10/25 08:04
+Current failed test : org.apache.commons.math3.linear.RectangularCholeskyDecompositionTest::testMath789_purify_3 | 18/10/25 08:05
+Timeout time : 18/10/25 08:20
+Current failed test : org.apache.commons.math3.linear.RectangularCholeskyDecompositionTest::testFullRank_purify_2 | 18/10/25 08:20
+Timeout time : 18/10/25 08:35

@@ -1,0 +1,6 @@
+=================================================
+Project : lang_35	start : 18/10/28 03:53
+Current failed test : org.apache.commons.lang3.ArrayUtilsAddTest::testLANG571_purify_1 | 18/10/28 03:53
+Timeout time : 18/10/28 04:14
+Current failed test : org.apache.commons.lang3.ArrayUtilsAddTest::testLANG571_purify_2 | 18/10/28 04:14
+Timeout time : 18/10/28 04:34

@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.FlowSensitiveInlineVariables#void#enterScope#?,NodeTraversal
+com.google.javascript.jscomp.FlowSensitiveInlineVariables$Candidate#boolean#canInline#?

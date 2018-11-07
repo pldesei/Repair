@@ -1,0 +1,6 @@
+=================================================
+Project : closure_110	start : 18/10/31 20:41
+Current failed test : com.google.javascript.jscomp.ScopedAliasesTest::testHoistedFunctionDeclaration | 18/10/31 20:41
+Timeout time : 18/10/31 21:05
+Current failed test : com.google.javascript.jscomp.ScopedAliasesTest::testFunctionDeclaration | 18/10/31 21:05
+Timeout time : 18/10/31 21:29

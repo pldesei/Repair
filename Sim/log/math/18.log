@@ -1,0 +1,4 @@
+=================================================
+Project : math_18	start : 18/10/25 07:33
+Current failed test : org.apache.commons.math3.optimization.direct.CMAESOptimizerTest::testFitAccuracyDependsOnBoundary_purify_2 | 18/10/25 07:34
+Timeout time : 18/10/25 08:04

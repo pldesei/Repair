@@ -1,0 +1,4 @@
+=================================================
+Project : lang_6	start : 18/10/27 13:22
+Current failed test : org.apache.commons.lang3.StringUtilsTest::testEscapeSurrogatePairs | 18/10/27 13:22
+Timeout time : 18/10/27 13:56

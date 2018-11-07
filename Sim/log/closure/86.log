@@ -1,0 +1,22 @@
+=================================================
+Project : closure_86	start : 18/10/23 11:36
+Current failed test : com.google.javascript.jscomp.NodeUtilTest::testLocalValue1 | 18/10/23 11:36
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return false ; 
+Time : 18/10/23 11:37
+----------------------------------------
+Success time : 18/10/23 11:38
+=================================================
+Project : closure_86	start : 18/10/31 09:17
+Current failed test : com.google.javascript.jscomp.NodeUtilTest::testLocalValue1 | 18/10/31 09:17
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return false ; 
+Time : 18/10/31 09:18
+----------------------------------------
+Success time : 18/10/31 09:20

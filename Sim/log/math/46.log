@@ -1,0 +1,48 @@
+=================================================
+Project : math_46	start : 18/10/25 21:49
+Current failed test : org.apache.commons.math.complex.ComplexTest::testAtanI | 18/10/25 21:49
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return this . subtract ( I ) . divide ( I . subtract ( this ) ) . log ( ) 
+Time : 18/10/25 21:59
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return this . add ( I ) . divide ( I . subtract ( this ) ) . sinh ( ) 
+Time : 18/10/25 22:04
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return this . add ( I ) . divide ( I . subtract ( this ) ) . cosh ( ) 
+Time : 18/10/25 22:05
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return this . add ( I ) . divide ( I . subtract ( this ) ) . tanh ( ) 
+Time : 18/10/25 22:06
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return this . add ( I ) . divide ( I . subtract ( this ) ) . atan ( ) 
+Time : 18/10/25 22:07
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return this . add ( I ) . divide ( I . subtract ( this ) ) . tan ( ) 
+Time : 18/10/25 22:08
+----------------------------------------
+Timeout time : 18/10/25 22:09
+Current failed test : org.apache.commons.math.complex.ComplexTest::testDivideZero | 18/10/25 22:09
+Timeout time : 18/10/25 22:29

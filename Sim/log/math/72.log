@@ -1,0 +1,6 @@
+=================================================
+Project : math_72	start : 18/10/26 15:08
+Current failed test : org.apache.commons.math.analysis.solvers.BrentSolverTest::testRootEndpoints_purify_3 | 18/10/26 15:08
+Timeout time : 18/10/26 15:25
+Current failed test : org.apache.commons.math.analysis.solvers.BrentSolverTest::testRootEndpoints_purify_4 | 18/10/26 15:25
+Timeout time : 18/10/26 15:43

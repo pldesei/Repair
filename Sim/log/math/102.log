@@ -1,0 +1,4 @@
+=================================================
+Project : math_102	start : 18/10/27 00:56
+Current failed test : org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquareLargeTestStatistic | 18/10/27 00:56
+Timeout time : 18/10/27 01:26

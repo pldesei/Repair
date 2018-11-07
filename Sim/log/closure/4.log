@@ -1,0 +1,8 @@
+=================================================
+Project : closure_4	start : 18/10/29 11:26
+Current failed test : com.google.javascript.jscomp.TypeCheckTest::testImplementsExtendsLoop | 18/10/29 11:26
+Timeout time : 18/10/29 11:37
+Current failed test : com.google.javascript.jscomp.TypeCheckTest::testConversionFromInterfaceToRecursiveConstructor | 18/10/29 11:37
+Timeout time : 18/10/29 11:48
+Current failed test : com.google.javascript.jscomp.TypeCheckTest::testImplementsLoop | 18/10/29 11:48
+Timeout time : 18/10/29 11:58

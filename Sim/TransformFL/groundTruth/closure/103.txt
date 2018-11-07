@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.ControlFlowAnalysis#boolean#mayThrowException#?,Node
+com.google.javascript.jscomp.DisambiguateProperties$JSTypeSystem#ObjectType#getTypeWithProperty#?,String,JSType

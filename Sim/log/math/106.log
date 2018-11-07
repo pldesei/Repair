@@ -1,0 +1,6 @@
+=================================================
+Project : math_106	start : 18/10/27 05:18
+Current failed test : org.apache.commons.math.fraction.FractionFormatTest::testParseProperInvalidMinus_purify_1 | 18/10/27 05:18
+Timeout time : 18/10/27 05:33
+Current failed test : org.apache.commons.math.fraction.FractionFormatTest::testParseProperInvalidMinus_purify_2 | 18/10/27 05:33
+Timeout time : 18/10/27 05:49

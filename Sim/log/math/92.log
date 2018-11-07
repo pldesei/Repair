@@ -1,0 +1,6 @@
+=================================================
+Project : math_92	start : 18/10/26 21:26
+Current failed test : org.apache.commons.math.util.MathUtilsTest::testBinomialCoefficientLarge_purify_1 | 18/10/26 21:27
+Timeout time : 18/10/26 21:42
+Current failed test : org.apache.commons.math.util.MathUtilsTest::testBinomialCoefficientLarge_purify_5 | 18/10/26 21:42
+Timeout time : 18/10/26 21:57

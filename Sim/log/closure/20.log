@@ -1,0 +1,4 @@
+=================================================
+Project : closure_20	start : 18/10/29 21:13
+Current failed test : com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntaxTest::testSimpleFunctionCall | 18/10/29 21:13
+Timeout time : 18/10/29 21:47

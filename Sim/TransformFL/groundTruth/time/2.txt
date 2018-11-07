@@ -1,0 +1,3 @@
+org.joda.time.Partial#?#Partial#?,DateTimeFieldType[],int[],Chronology
+org.joda.time.Partial#Partial#with#?,DateTimeFieldType,int
+org.joda.time.field.UnsupportedDurationField#int#compareTo#?,DurationField

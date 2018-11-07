@@ -1,0 +1,4 @@
+=================================================
+Project : closure_8	start : 18/10/29 13:39
+Current failed test : com.google.javascript.jscomp.CollapseVariableDeclarationsTest::testIssue820 | 18/10/29 13:39
+Timeout time : 18/10/29 14:12

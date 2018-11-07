@@ -1,0 +1,3 @@
+null
+com.google.javascript.jscomp.ReferenceCollectingCallback$ReferenceCollection#boolean#isAssignedOnceInLifetime#?
+com.google.javascript.jscomp.ReferenceCollectingCallback$BasicBlock#?#BasicBlock#?,BasicBlock,Node

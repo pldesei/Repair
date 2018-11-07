@@ -1,0 +1,3 @@
+org.jfree.data.DefaultKeyedValues#void#removeValue#?,int
+org.jfree.data.DefaultKeyedValues#void#removeValue#?,Comparable
+org.jfree.data.DefaultKeyedValues2D#void#removeColumn#?,Comparable

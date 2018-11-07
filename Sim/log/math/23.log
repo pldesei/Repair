@@ -1,0 +1,4 @@
+=================================================
+Project : math_23	start : 18/10/25 08:50
+Current failed test : org.apache.commons.math3.optimization.univariate.BrentOptimizerTest::testKeepInitIfBest | 18/10/25 08:50
+Timeout time : 18/10/25 09:21

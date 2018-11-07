@@ -1,0 +1,4 @@
+=================================================
+Project : closure_81	start : 18/10/31 09:20
+Current failed test : com.google.javascript.jscomp.parsing.ParserTest::testUnnamedFunctionStatement | 18/10/31 09:20
+Timeout time : 18/10/31 09:51

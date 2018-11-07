@@ -1,0 +1,16 @@
+=================================================
+Project : math_67	start : 18/10/26 11:56
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_1 | 18/10/26 11:56
+Timeout time : 18/10/26 12:03
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_2 | 18/10/26 12:03
+Timeout time : 18/10/26 12:09
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_3 | 18/10/26 12:09
+Timeout time : 18/10/26 12:16
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_7 | 18/10/26 12:16
+Timeout time : 18/10/26 12:22
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_8 | 18/10/26 12:22
+Timeout time : 18/10/26 12:28
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_9 | 18/10/26 12:28
+Timeout time : 18/10/26 12:34
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_10 | 18/10/26 12:34
+Timeout time : 18/10/26 12:41

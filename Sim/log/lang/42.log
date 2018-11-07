@@ -1,0 +1,4 @@
+=================================================
+Project : lang_42	start : 18/10/28 07:56
+Current failed test : org.apache.commons.lang.StringEscapeUtilsTest::testEscapeHtmlHighUnicode | 18/10/28 07:56
+Timeout time : 18/10/28 08:30

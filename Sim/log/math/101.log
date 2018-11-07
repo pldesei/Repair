@@ -1,0 +1,11 @@
+=================================================
+Project : math_101	start : 18/10/27 02:39
+Current failed test : org.apache.commons.math.complex.ComplexFormatTest::testForgottenImaginaryCharacter | 18/10/27 02:39
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+parseNextCharacter ( source , pos ) ; 
+Time : 18/10/27 02:55
+----------------------------------------
+Timeout time : 18/10/27 03:13

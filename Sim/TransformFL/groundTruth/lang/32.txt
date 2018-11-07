@@ -1,0 +1,4 @@
+null
+org.apache.commons.lang3.builder.HashCodeBuilder#boolean#isRegistered#?,Object
+org.apache.commons.lang3.builder.HashCodeBuilder#void#unregister#?,Object
+org.apache.commons.lang3.builder.HashCodeBuilder#void#register#?,Object

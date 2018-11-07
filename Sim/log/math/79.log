@@ -1,0 +1,4 @@
+=================================================
+Project : math_79	start : 18/10/26 14:37
+Current failed test : org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest::testPerformClusterAnalysisDegenerate | 18/10/26 14:37
+Timeout time : 18/10/26 15:08

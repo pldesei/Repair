@@ -1,0 +1,20 @@
+=================================================
+Project : math_47	start : 18/10/25 22:29
+Current failed test : org.apache.commons.math.complex.ComplexTest::testAtanI | 18/10/25 22:29
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return this . add ( I ) . multiply ( I . subtract ( this ) ) . log ( ) 
+Time : 18/10/25 22:38
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return this . add ( I ) . divide ( INF . subtract ( this ) ) . log ( ) 
+Time : 18/10/25 22:40
+----------------------------------------
+Timeout time : 18/10/25 22:49
+Current failed test : org.apache.commons.math.complex.ComplexTest::testDivideZero | 18/10/25 22:49
+Timeout time : 18/10/25 23:05

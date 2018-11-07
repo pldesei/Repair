@@ -1,0 +1,11 @@
+=================================================
+Project : math_8	start : 18/10/25 00:59
+Current failed test : org.apache.commons.math3.distribution.DiscreteRealDistributionTest::testIssue942 | 18/10/25 00:59
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+final T [ ] out = ( T [ ] ) java . lang . reflect . Array . newInstance ( singletons . get ( 1 ) . getClass ( ) , sampleSize ) ; 
+Time : 18/10/25 01:21
+----------------------------------------
+Success time : 18/10/25 01:23

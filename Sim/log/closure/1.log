@@ -1,0 +1,4 @@
+=================================================
+Project : closure_1	start : 18/10/29 09:31
+Current failed test : com.google.javascript.jscomp.CommandLineRunnerTest::testSimpleModeLeavesUnusedParams | 18/10/29 09:31
+Timeout time : 18/10/29 10:08

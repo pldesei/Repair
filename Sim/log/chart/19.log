@@ -1,0 +1,6 @@
+=================================================
+Project : chart_19	start : 18/10/24 14:51
+Current failed test : org.jfree.chart.plot.junit.CategoryPlotTests::testGetDomainAxisIndex_purify_5 | 18/10/24 14:51
+Timeout time : 18/10/24 15:09
+Current failed test : org.jfree.chart.plot.junit.CategoryPlotTests::testGetRangeAxisIndex_purify_5 | 18/10/24 15:09
+Timeout time : 18/10/24 15:28

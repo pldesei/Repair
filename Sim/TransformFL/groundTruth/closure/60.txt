@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.NodeUtil#TernaryValue#getPureBooleanValue#?,Node
+com.google.javascript.jscomp.NodeUtil#TernaryValue#getImpureBooleanValue#?,Node

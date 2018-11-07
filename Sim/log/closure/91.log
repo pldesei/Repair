@@ -1,0 +1,4 @@
+=================================================
+Project : closure_91	start : 18/10/31 15:21
+Current failed test : com.google.javascript.jscomp.CheckGlobalThisTest::testLendsAnnotation3 | 18/10/31 15:21
+Timeout time : 18/10/31 15:52

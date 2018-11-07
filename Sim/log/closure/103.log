@@ -1,0 +1,8 @@
+=================================================
+Project : closure_103	start : 18/10/31 16:56
+Current failed test : com.google.javascript.jscomp.DisambiguatePropertiesTest::testSupertypeReferenceOfSubtypeProperty | 18/10/31 16:56
+Timeout time : 18/10/31 17:07
+Current failed test : com.google.javascript.jscomp.ControlFlowAnalysisTest::testInstanceOf | 18/10/31 17:07
+Timeout time : 18/10/31 17:18
+Current failed test : com.google.javascript.jscomp.CheckUnreachableCodeTest::testInstanceOfThrowsException | 18/10/31 17:18
+Timeout time : 18/10/31 17:29

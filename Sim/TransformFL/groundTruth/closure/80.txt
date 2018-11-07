@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.NodeUtil#boolean#isBooleanResultHelper#?,Node
+com.google.javascript.jscomp.NodeUtil#boolean#evaluatesToLocalValue#?,Node,Predicate<Node>

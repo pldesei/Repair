@@ -1,0 +1,46 @@
+=================================================
+Project : math_96	start : 18/10/27 04:17
+Current failed test : org.apache.commons.math.complex.ComplexTest::testMath221 | 18/10/27 04:17
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return createComplex ( real * rhs . imaginary - imaginary * rhs . imaginary , 
+Time : 18/10/27 04:25
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return createComplex ( real * rhs . real + imaginary * rhs . imaginary , 
+Time : 18/10/27 04:25
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+ret = ( Double . doubleToRawLongBits ( real ) != Double . doubleToRawLongBits ( rhs . getReal ( ) ) ) && ( Double . doubleToRawLongBits ( imaginary ) == Double . doubleToRawLongBits ( rhs . getImaginary ( ) ) ) ; 
+Time : 18/10/27 04:31
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+ret = ( Double . doubleToRawLongBits ( real ) == Double . doubleToRawLongBits ( rhs . getReal ( ) ) ) || ( Double . doubleToRawLongBits ( imaginary ) == Double . doubleToRawLongBits ( rhs . getImaginary ( ) ) ) ; 
+Time : 18/10/27 04:32
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( this != other ) { 
+Time : 18/10/27 04:41
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return Double . isNaN ( real ) == Double . isNaN ( imaginary ) ; 
+Time : 18/10/27 04:45
+----------------------------------------
+Timeout time : 18/10/27 04:48

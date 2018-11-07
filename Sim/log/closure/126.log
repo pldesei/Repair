@@ -1,0 +1,4 @@
+=================================================
+Project : closure_126	start : 18/11/01 07:18
+Current failed test : com.google.javascript.jscomp.MinimizeExitPointsTest::testDontRemoveBreakInTryFinally | 18/11/01 07:18
+Timeout time : 18/11/01 07:54

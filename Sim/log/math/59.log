@@ -1,0 +1,33 @@
+=================================================
+Project : math_59	start : 18/10/23 10:34
+Current failed test : org.apache.commons.math.util.FastMathTest::testMinMaxFloat | 18/10/23 10:34
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return ( a <= b ) ? b : ( Float . isNaN ( a + b ) ? Float . NaN : a ) ; 
+Time : 18/10/23 10:38
+----------------------------------------
+Success time : 18/10/23 10:38
+=================================================
+Project : math_59	start : 18/10/23 10:42
+Current failed test : org.apache.commons.math.util.FastMathTest::testMinMaxFloat | 18/10/23 10:42
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return ( a <= b ) ? b : ( Float . isNaN ( a + b ) ? Float . NaN : a ) ; 
+Time : 18/10/23 10:45
+----------------------------------------
+Success time : 18/10/23 10:46
+=================================================
+Project : math_59	start : 18/10/26 04:44
+Current failed test : org.apache.commons.math.util.FastMathTest::testMinMaxFloat | 18/10/26 04:44
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return ( a <= b ) ? b : ( Float . isNaN ( a + b ) ? Float . NaN : a ) ; 
+Time : 18/10/26 04:51
+----------------------------------------
+Success time : 18/10/26 04:52

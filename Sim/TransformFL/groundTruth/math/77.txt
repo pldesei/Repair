@@ -1,0 +1,2 @@
+org.apache.commons.math.linear.ArrayRealVector#double#getLInfNorm#?
+org.apache.commons.math.linear.OpenMapRealVector#double#getLInfNorm#?

@@ -1,0 +1,2 @@
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer#double#getChiSquare#?
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer#double#getRMS#?

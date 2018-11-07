@@ -1,0 +1,4 @@
+null
+com.google.javascript.jscomp.ScopedAliases$Traversal#void#visit#?,NodeTraversal,Node,Node
+com.google.javascript.jscomp.ScopedAliases$Traversal#void#findAliases#?,NodeTraversal
+com.google.javascript.jscomp.ScopedAliases$Traversal#void#exitScope#?,NodeTraversal

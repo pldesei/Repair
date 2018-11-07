@@ -1,0 +1,4 @@
+=================================================
+Project : chart_15	start : 18/10/24 13:08
+Current failed test : org.jfree.chart.plot.junit.PiePlot3DTests::testDrawWithNullDataset | 18/10/24 13:08
+Timeout time : 18/10/24 13:42

@@ -1,0 +1,2 @@
+org.apache.commons.math.estimation.AbstractEstimator#double[]#guessParametersErrors#?,EstimationProblem
+org.apache.commons.math.estimation.AbstractEstimator#double[][]#getCovariances#?,EstimationProblem

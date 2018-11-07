@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.FunctionTypeBuilder$ThisTypeValidator#boolean#apply#?,JSType
+com.google.javascript.rhino.jstype.FunctionType#JSType#resolveInternal#?,ErrorReporter,StaticScope<JSType>

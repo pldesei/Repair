@@ -1,0 +1,4 @@
+=================================================
+Project : lang_27	start : 18/10/28 00:02
+Current failed test : org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber_purify_25 | 18/10/28 00:03
+Timeout time : 18/10/28 00:33

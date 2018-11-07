@@ -1,0 +1,16 @@
+=================================================
+Project : lang_34	start : 18/10/28 03:16
+Current failed test : org.apache.commons.lang3.builder.ToStringBuilderTest::testSelfInstanceVarReflectionObjectCycle | 18/10/28 03:18
+Timeout time : 18/10/28 03:23
+Current failed test : org.apache.commons.lang3.builder.ToStringBuilderTest::testSimpleReflectionObjectCycle | 18/10/28 03:23
+Timeout time : 18/10/28 03:28
+Current failed test : org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayCycle | 18/10/28 03:28
+Timeout time : 18/10/28 03:33
+Current failed test : org.apache.commons.lang3.builder.ToStringBuilderTest::testSelfInstanceTwoVarsReflectionObjectCycle | 18/10/28 03:33
+Timeout time : 18/10/28 03:38
+Current failed test : org.apache.commons.lang3.builder.ToStringBuilderTest::testObjectCycle | 18/10/28 03:38
+Timeout time : 18/10/28 03:43
+Current failed test : org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayArrayCycle | 18/10/28 03:43
+Timeout time : 18/10/28 03:48
+Current failed test : org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionObjectCycle | 18/10/28 03:48
+Timeout time : 18/10/28 03:53

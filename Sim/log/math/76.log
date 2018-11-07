@@ -1,0 +1,8 @@
+=================================================
+Project : math_76	start : 18/10/26 12:41
+Current failed test : org.apache.commons.math.linear.SingularValueSolverTest::testMath320B | 18/10/26 12:41
+Timeout time : 18/10/26 12:52
+Current failed test : org.apache.commons.math.linear.SingularValueSolverTest::testMath320A_purify_1 | 18/10/26 12:52
+Timeout time : 18/10/26 13:03
+Current failed test : org.apache.commons.math.linear.SingularValueSolverTest::testMath320A_purify_4 | 18/10/26 13:03
+Timeout time : 18/10/26 13:13

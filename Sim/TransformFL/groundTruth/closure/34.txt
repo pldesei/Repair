@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.CodeGenerator#void#unrollBinaryOperator#?,Node,int,String,Context,Context,int,int
+com.google.javascript.jscomp.CodeGenerator#void#add#?,Node,Context
+com.google.javascript.jscomp.CodePrinter$PrettyCodePrinter#void#appendOp#?,String,boolean

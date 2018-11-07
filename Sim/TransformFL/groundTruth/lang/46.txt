@@ -1,0 +1,6 @@
+org.apache.commons.lang.StringEscapeUtils#String#escapeJavaScript#?,String
+org.apache.commons.lang.StringEscapeUtils#String#escapeJava#?,String
+org.apache.commons.lang.StringEscapeUtils#void#escapeJavaStyleString#?,Writer,String,boolean
+org.apache.commons.lang.StringEscapeUtils#void#escapeJava#?,Writer,String
+org.apache.commons.lang.StringEscapeUtils#void#escapeJavaScript#?,Writer,String
+org.apache.commons.lang.StringEscapeUtils#String#escapeJavaStyleString#?,String,boolean

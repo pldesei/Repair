@@ -1,0 +1,6 @@
+=================================================
+Project : math_28	start : 18/10/25 12:50
+Current failed test : org.apache.commons.math3.optimization.linear.SimplexSolverTest::testMath828Cycle_purify_1 | 18/10/25 12:50
+Timeout time : 18/10/25 13:07
+Current failed test : org.apache.commons.math3.optimization.linear.SimplexSolverTest::testMath828Cycle_purify_2 | 18/10/25 13:07
+Timeout time : 18/10/25 13:23

@@ -1,0 +1,2 @@
+com.google.debugging.sourcemap.SourceMapConsumerV3#OriginalMapping#getOriginalMappingForEntry#?,Entry
+com.google.javascript.jscomp.SourceMap#void#addMapping#?,Node,FilePosition,FilePosition

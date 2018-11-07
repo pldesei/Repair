@@ -1,0 +1,10 @@
+=================================================
+Project : chart_14	start : 18/10/24 12:29
+Current failed test : org.jfree.chart.plot.junit.XYPlotTests::testRemoveDomainMarker | 18/10/24 12:29
+Timeout time : 18/10/24 12:39
+Current failed test : org.jfree.chart.plot.junit.CategoryPlotTests::testRemoveDomainMarker | 18/10/24 12:39
+Timeout time : 18/10/24 12:49
+Current failed test : org.jfree.chart.plot.junit.XYPlotTests::testRemoveRangeMarker | 18/10/24 12:49
+Timeout time : 18/10/24 12:59
+Current failed test : org.jfree.chart.plot.junit.CategoryPlotTests::testRemoveRangeMarker | 18/10/24 12:59
+Timeout time : 18/10/24 13:08

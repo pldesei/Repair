@@ -1,0 +1,14 @@
+=================================================
+Project : math_100	start : 18/10/27 01:57
+Current failed test : org.apache.commons.math.estimation.GaussNewtonEstimatorTest::testBoundParameters_purify_2 | 18/10/27 01:57
+Timeout time : 18/10/27 02:05
+Current failed test : org.apache.commons.math.estimation.GaussNewtonEstimatorTest::testBoundParameters_purify_3 | 18/10/27 02:05
+Timeout time : 18/10/27 02:12
+Current failed test : org.apache.commons.math.estimation.GaussNewtonEstimatorTest::testBoundParameters_purify_4 | 18/10/27 02:12
+Timeout time : 18/10/27 02:19
+Current failed test : org.apache.commons.math.estimation.GaussNewtonEstimatorTest::testBoundParameters_purify_5 | 18/10/27 02:19
+Timeout time : 18/10/27 02:26
+Current failed test : org.apache.commons.math.estimation.GaussNewtonEstimatorTest::testBoundParameters_purify_6 | 18/10/27 02:26
+Timeout time : 18/10/27 02:32
+Current failed test : org.apache.commons.math.estimation.GaussNewtonEstimatorTest::testBoundParameters_purify_7 | 18/10/27 02:32
+Timeout time : 18/10/27 02:39

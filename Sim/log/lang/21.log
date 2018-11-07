@@ -1,0 +1,8 @@
+=================================================
+Project : lang_21	start : 18/10/23 11:20
+Current failed test : org.apache.commons.lang3.time.DateUtilsTest::testIsSameLocalTime_Cal | 18/10/23 11:20
+Failed time : 18/10/23 11:27
+=================================================
+Project : lang_21	start : 18/10/27 20:51
+Current failed test : org.apache.commons.lang3.time.DateUtilsTest::testIsSameLocalTime_Cal | 18/10/27 20:51
+Timeout time : 18/10/27 21:23

@@ -1,0 +1,11 @@
+=================================================
+Project : lang_31	start : 18/10/28 02:13
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAnyCharArrayWithSupplementaryChars | 18/10/28 02:13
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+for ( int i = 1 ; i < csLength ; i ++ ) { 
+Time : 18/10/28 02:25
+----------------------------------------
+Success time : 18/10/28 02:25

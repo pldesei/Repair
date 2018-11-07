@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.FlowSensitiveInlineVariables#void#process#?,Node,Node
+com.google.javascript.jscomp.MustBeReachingVariableDef#void#computeDependence#?,Definition,Node
+com.google.javascript.jscomp.MustBeReachingVariableDef#boolean#dependsOnOuterScopeVars#?,String,Node

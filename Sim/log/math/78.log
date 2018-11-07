@@ -1,0 +1,8 @@
+=================================================
+Project : math_78	start : 18/10/26 13:51
+Current failed test : org.apache.commons.math.ode.events.EventStateTest::closeEvents_purify_1 | 18/10/26 13:51
+Timeout time : 18/10/26 14:05
+Current failed test : org.apache.commons.math.ode.events.EventStateTest::closeEvents_purify_2 | 18/10/26 14:05
+Timeout time : 18/10/26 14:21
+Current failed test : org.apache.commons.math.ode.events.EventStateTest::closeEvents_purify_4 | 18/10/26 14:21
+Timeout time : 18/10/26 14:37

@@ -1,0 +1,4 @@
+=================================================
+Project : closure_59	start : 18/10/30 17:37
+Current failed test : com.google.javascript.jscomp.CommandLineRunnerTest::testCheckGlobalThisOff | 18/10/30 17:37
+Timeout time : 18/10/30 18:12

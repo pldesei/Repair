@@ -1,0 +1,31 @@
+#!/usr/bin/python
+
+import argparse
+import collections
+
+try:
+  import pyfl
+except ImportError:
+  import os
+  import sys
+  sys.path.append(os.path.join(os.environ['FL_DATA_HOME'], 'utils'))
+  import pyfl
+
+
+
+def flt_score_eval_id(e):
+  return (e.project, e.bug, e.test_suite, e.scoring_scheme, e.family, e.formula, e.total_defn, e.kill_defn, e.hybrid_scheme, e.aggregate_defn)
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--output', '-o', required=True)
+parser.add_argument('base_score_file')
+parser.add_argument('amendment_score_files', nargs='+')
+
+args = parser.parse_args()
+
+evals = collections.OrderedDict()
+for path in [args.base_score_file]+list(args.amendment_score_files):
+  with open(path) as score_file:
+    evals.update((flt_score_eval_id(e), e) for e in pyfl.iter_flt_score_evals(score_file))
+
+pyfl.write_flt_score_evals(open(args.output, 'w'), evals.values())

@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.CollapseProperties#void#updateSimpleDeclaration#?,String,Name,Ref
+com.google.javascript.jscomp.GlobalNamespace$Name#boolean#canCollapseUnannotatedChildNames#?

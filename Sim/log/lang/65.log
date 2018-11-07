@@ -1,0 +1,18 @@
+=================================================
+Project : lang_65	start : 18/10/28 20:20
+Current failed test : org.apache.commons.lang.time.DateUtilsTest::testTruncateLang59_purify_7 | 18/10/28 20:21
+Timeout time : 18/10/28 20:26
+Current failed test : org.apache.commons.lang.time.DateUtilsTest::testTruncateLang59_purify_9 | 18/10/28 20:26
+Timeout time : 18/10/28 20:31
+Current failed test : org.apache.commons.lang.time.DateUtilsTest::testTruncateLang59_purify_10 | 18/10/28 20:31
+Timeout time : 18/10/28 20:36
+Current failed test : org.apache.commons.lang.time.DateUtilsTest::testTruncateLang59_purify_12 | 18/10/28 20:36
+Timeout time : 18/10/28 20:41
+Current failed test : org.apache.commons.lang.time.DateUtilsTest::testTruncateLang59_purify_13 | 18/10/28 20:41
+Timeout time : 18/10/28 20:46
+Current failed test : org.apache.commons.lang.time.DateUtilsTest::testTruncateLang59_purify_15 | 18/10/28 20:46
+Timeout time : 18/10/28 20:51
+Current failed test : org.apache.commons.lang.time.DateUtilsTest::testTruncateLang59_purify_16 | 18/10/28 20:51
+Timeout time : 18/10/28 20:56
+Current failed test : org.apache.commons.lang.time.DateUtilsTest::testTruncateLang59_purify_18 | 18/10/28 20:56
+Timeout time : 18/10/28 21:01

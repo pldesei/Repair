@@ -1,0 +1,10 @@
+=================================================
+Project : closure_76	start : 18/10/31 02:37
+Current failed test : com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testInExpression2 | 18/10/31 02:38
+Timeout time : 18/10/31 02:45
+Current failed test : com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue384c | 18/10/31 02:45
+Timeout time : 18/10/31 02:52
+Current failed test : com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue384b | 18/10/31 02:52
+Timeout time : 18/10/31 03:00
+Current failed test : com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue384d | 18/10/31 03:00
+Timeout time : 18/10/31 03:07

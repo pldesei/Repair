@@ -1,0 +1,11 @@
+=================================================
+Project : closure_109	start : 18/10/31 22:33
+Current failed test : com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testStructuralConstructor2 | 18/10/31 22:34
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return parseTopLevelTypeExpression ( token ) ; 
+Time : 18/10/31 22:55
+----------------------------------------
+Success time : 18/10/31 22:57

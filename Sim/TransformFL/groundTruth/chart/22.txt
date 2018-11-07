@@ -1,0 +1,4 @@
+org.jfree.data.KeyedObjects2D#void#removeRow#?,Comparable
+org.jfree.data.KeyedObjects2D#void#removeColumn#?,Comparable
+org.jfree.data.KeyedObjects2D#void#removeObject#?,Comparable,Comparable
+org.jfree.data.KeyedObjects2D#Object#getObject#?,Comparable,Comparable

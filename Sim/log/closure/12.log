@@ -1,0 +1,4 @@
+=================================================
+Project : closure_12	start : 18/10/29 16:00
+Current failed test : com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testIssue794b | 18/10/29 16:00
+Timeout time : 18/10/29 16:33

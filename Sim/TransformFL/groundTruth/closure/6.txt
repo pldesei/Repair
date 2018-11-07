@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.TypeValidator#boolean#expectCanAssignTo#?,NodeTraversal,Node,JSType,JSType,String
+com.google.javascript.jscomp.TypeValidator#boolean#expectCanAssignToPropertyOf#?,NodeTraversal,Node,JSType,JSType,Node,String

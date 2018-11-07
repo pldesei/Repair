@@ -1,0 +1,2 @@
+com.google.javascript.rhino.IR#Node#tryCatch#?,Node,Node
+com.google.javascript.rhino.IR#Node#tryFinally#?,Node,Node

@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.FunctionToBlockMutator#void#makeLocalNamesUnique#?,Node,boolean
+com.google.javascript.jscomp.RenameLabels$ProcessLabels#void#visitLabel#?,Node,Node

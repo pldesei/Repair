@@ -1,0 +1,20 @@
+=================================================
+Project : math_90	start : 18/10/27 00:22
+Current failed test : org.apache.commons.math.stat.FrequencyTest::testAddNonComparable_purify_1 | 18/10/27 00:22
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+} catch ( IndexOutOfBoundsException ex ) { 
+Time : 18/10/27 00:24
+----------------------------------------
+Timeout time : 18/10/27 00:38
+Current failed test : org.apache.commons.math.stat.FrequencyTest::testAddNonComparable_purify_2 | 18/10/27 00:38
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+} catch ( IndexOutOfBoundsException ex ) { 
+Time : 18/10/27 00:41
+----------------------------------------
+Timeout time : 18/10/27 00:56

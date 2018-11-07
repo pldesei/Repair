@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.Normalize#void#process#?,Node,Node
+com.google.javascript.jscomp.VarCheck#void#createSynthesizedExternVar#?,String

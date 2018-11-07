@@ -1,0 +1,4 @@
+=================================================
+Project : chart_23	start : 18/10/24 16:53
+Current failed test : org.jfree.chart.renderer.category.junit.MinMaxCategoryRendererTests::testEquals | 18/10/24 16:53
+Timeout time : 18/10/24 17:24

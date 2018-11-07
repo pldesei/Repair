@@ -1,0 +1,6 @@
+=================================================
+Project : math_62	start : 18/10/26 06:25
+Current failed test : org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_1 | 18/10/26 06:26
+Timeout time : 18/10/26 06:42
+Current failed test : org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_5 | 18/10/26 06:42
+Timeout time : 18/10/26 06:59

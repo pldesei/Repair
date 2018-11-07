@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.ScopedAliases$Traversal#void#findAliases#?,NodeTraversal
+com.google.javascript.rhino.Node#Node#getChildBefore#?,Node

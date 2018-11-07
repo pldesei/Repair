@@ -1,0 +1,34 @@
+=================================================
+Project : closure_47	start : 18/10/30 11:13
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testBasicMapping2 | 18/10/30 11:15
+Timeout time : 18/10/30 11:18
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testLiteralMappingsGoldenOutput | 18/10/30 11:18
+Timeout time : 18/10/30 11:21
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testParseSourceMetaMap | 18/10/30 11:21
+Timeout time : 18/10/30 11:25
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testBasicMapping1 | 18/10/30 11:25
+Timeout time : 18/10/30 11:28
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput2 | 18/10/30 11:28
+Timeout time : 18/10/30 11:31
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput0a | 18/10/30 11:31
+Timeout time : 18/10/30 11:34
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput3 | 18/10/30 11:34
+Timeout time : 18/10/30 11:37
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput4 | 18/10/30 11:37
+Timeout time : 18/10/30 11:40
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testSourceMapMerging | 18/10/30 11:40
+Timeout time : 18/10/30 11:43
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput5 | 18/10/30 11:43
+Timeout time : 18/10/30 11:46
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput1 | 18/10/30 11:46
+Timeout time : 18/10/30 11:49
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testMultilineMapping | 18/10/30 11:49
+Timeout time : 18/10/30 11:52
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testLiteralMappings | 18/10/30 11:52
+Timeout time : 18/10/30 11:55
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testBasicMappingGoldenOutput | 18/10/30 11:55
+Timeout time : 18/10/30 11:59
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testMultiFunctionMapping | 18/10/30 11:59
+Timeout time : 18/10/30 12:02
+Current failed test : com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testMultilineMapping2 | 18/10/30 12:02
+Timeout time : 18/10/30 12:05

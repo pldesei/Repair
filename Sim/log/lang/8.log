@@ -1,0 +1,4 @@
+=================================================
+Project : lang_8	start : 18/10/27 14:26
+Current failed test : org.apache.commons.lang3.time.FastDatePrinterTest::testCalendarTimezoneRespected_purify_2 | 18/10/27 14:27
+Timeout time : 18/10/27 14:59

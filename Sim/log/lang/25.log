@@ -1,0 +1,39 @@
+=================================================
+Project : lang_25	start : 18/10/27 22:59
+Current failed test : org.apache.commons.lang3.text.translate.EntityArraysTest::testISO8859_1_ESCAPE | 18/10/27 22:59
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+public static String [ ] [ ] ISO8859_1_ESCAPE ( ) { return BASIC_ESCAPE . clone ( ) ; } 
+Time : 18/10/27 23:01
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+public static String [ ] [ ] ISO8859_1_ESCAPE ( ) { return BASIC_UNESCAPE . clone ( ) ; } 
+Time : 18/10/27 23:01
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+public static String [ ] [ ] ISO8859_1_ESCAPE ( ) { return APOS_ESCAPE . clone ( ) ; } 
+Time : 18/10/27 23:01
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+public static String [ ] [ ] ISO8859_1_ESCAPE ( ) { return HTML40_EXTENDED_ESCAPE . clone ( ) ; } 
+Time : 18/10/27 23:02
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+public static String [ ] [ ] ISO8859_1_ESCAPE ( ) { return JAVA_CTRL_CHARS_ESCAPE . clone ( ) ; } 
+Time : 18/10/27 23:02
+----------------------------------------
+Timeout time : 18/10/27 23:30

@@ -1,0 +1,4 @@
+=================================================
+Project : closure_53	start : 18/10/30 16:23
+Current failed test : com.google.javascript.jscomp.InlineObjectLiteralsTest::testBug545 | 18/10/30 16:24
+Timeout time : 18/10/30 17:01

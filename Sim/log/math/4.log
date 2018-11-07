@@ -1,0 +1,10 @@
+=================================================
+Project : math_4	start : 18/10/24 22:53
+Current failed test : org.apache.commons.math3.geometry.euclidean.twod.SubLineTest::testIntersectionParallel_purify_1 | 18/10/24 22:54
+Timeout time : 18/10/24 23:06
+Current failed test : org.apache.commons.math3.geometry.euclidean.twod.SubLineTest::testIntersectionParallel_purify_2 | 18/10/24 23:06
+Timeout time : 18/10/24 23:18
+Current failed test : org.apache.commons.math3.geometry.euclidean.threed.SubLineTest::testIntersectionNotIntersecting_purify_1 | 18/10/24 23:18
+Timeout time : 18/10/24 23:31
+Current failed test : org.apache.commons.math3.geometry.euclidean.threed.SubLineTest::testIntersectionNotIntersecting_purify_2 | 18/10/24 23:31
+Timeout time : 18/10/24 23:43

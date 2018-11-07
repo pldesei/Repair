@@ -1,0 +1,22 @@
+=================================================
+Project : closure_14	start : 18/10/23 11:41
+Current failed test : com.google.javascript.jscomp.CheckMissingReturnTest::testIssue779 | 18/10/23 11:41
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+cfa . createEdge ( fromNode , Branch . ON_EX , finallyNode ) ; 
+Time : 18/10/23 11:55
+----------------------------------------
+Success time : 18/10/23 11:57
+=================================================
+Project : closure_14	start : 18/10/29 17:05
+Current failed test : com.google.javascript.jscomp.CheckMissingReturnTest::testIssue779 | 18/10/29 17:05
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+cfa . createEdge ( fromNode , Branch . ON_EX , finallyNode ) ; 
+Time : 18/10/29 17:40
+----------------------------------------
+Success time : 18/10/29 17:42

@@ -1,0 +1,4 @@
+=================================================
+Project : math_38	start : 18/10/25 17:31
+Current failed test : org.apache.commons.math.optimization.direct.BOBYQAOptimizerTest::testConstrainedRosenWithMoreInterpolationPoints | 18/10/25 17:31
+Timeout time : 18/10/25 18:02

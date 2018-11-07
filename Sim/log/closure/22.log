@@ -1,0 +1,4 @@
+=================================================
+Project : closure_22	start : 18/10/29 22:22
+Current failed test : com.google.javascript.jscomp.CheckSideEffectsTest::testUselessCode | 18/10/29 22:22
+Timeout time : 18/10/29 22:57

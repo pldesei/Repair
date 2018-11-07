@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.CheckGlobalThis#boolean#shouldReportThis#?,Node,Node
+com.google.javascript.jscomp.CheckGlobalThis#boolean#shouldTraverse#?,NodeTraversal,Node,Node

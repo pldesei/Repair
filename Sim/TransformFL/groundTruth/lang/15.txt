@@ -1,0 +1,2 @@
+org.apache.commons.lang3.reflect.TypeUtils#boolean#isAssignable#?,Type,ParameterizedType,Map<TypeVariable<?>,Type>
+org.apache.commons.lang3.reflect.TypeUtils#Map<TypeVariable<?>,Type>#getTypeArguments#?,Class<?>,Class<?>,Map<TypeVariable<?>,Type>

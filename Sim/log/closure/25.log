@@ -1,0 +1,4 @@
+=================================================
+Project : closure_25	start : 18/10/29 22:57
+Current failed test : com.google.javascript.jscomp.TypeInferenceTest::testBackwardsInferenceNew | 18/10/29 22:57
+Timeout time : 18/10/29 23:37

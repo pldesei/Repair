@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.Compiler#void#toSource#?,CodeBuilder,int,Node
+com.google.javascript.jscomp.Compiler#String#toSource#?,Node

@@ -1,0 +1,6 @@
+=================================================
+Project : math_44	start : 18/10/25 23:05
+Current failed test : org.apache.commons.math.ode.events.EventStateTest::testIssue695_purify_1 | 18/10/25 23:05
+Timeout time : 18/10/25 23:22
+Current failed test : org.apache.commons.math.ode.events.EventStateTest::testIssue695_purify_2 | 18/10/25 23:22
+Timeout time : 18/10/25 23:39

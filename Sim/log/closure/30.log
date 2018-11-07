@@ -1,0 +1,8 @@
+=================================================
+Project : closure_30	start : 18/10/30 03:01
+Current failed test : com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testIssue698 | 18/10/30 03:01
+Timeout time : 18/10/30 03:13
+Current failed test : com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testCanInlineAcrossNoSideEffect | 18/10/30 03:13
+Timeout time : 18/10/30 03:24
+Current failed test : com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testInlineAcrossSideEffect1 | 18/10/30 03:24
+Timeout time : 18/10/30 03:36

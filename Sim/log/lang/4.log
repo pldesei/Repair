@@ -1,0 +1,6 @@
+=================================================
+Project : lang_4	start : 18/10/27 12:19
+Current failed test : org.apache.commons.lang3.text.translate.LookupTranslatorTest::testLang882_purify_1 | 18/10/27 12:19
+Timeout time : 18/10/27 12:34
+Current failed test : org.apache.commons.lang3.text.translate.LookupTranslatorTest::testLang882_purify_2 | 18/10/27 12:34
+Timeout time : 18/10/27 12:50

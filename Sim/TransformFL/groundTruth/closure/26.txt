@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.ProcessCommonJSModules$ProcessCommonJsModulesCallback#void#visitModuleExports#?,Node
+com.google.javascript.jscomp.ProcessCommonJSModules$ProcessCommonJsModulesCallback#void#emitOptionalModuleExportsOverride#?,Node,String

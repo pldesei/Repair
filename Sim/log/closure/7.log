@@ -1,0 +1,4 @@
+=================================================
+Project : closure_7	start : 18/10/29 13:08
+Current failed test : com.google.javascript.jscomp.ClosureReverseAbstractInterpreterTest::testGoogIsFunction2 | 18/10/29 13:08
+Timeout time : 18/10/29 13:39

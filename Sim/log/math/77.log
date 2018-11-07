@@ -1,0 +1,6 @@
+=================================================
+Project : math_77	start : 18/10/26 13:13
+Current failed test : org.apache.commons.math.linear.ArrayRealVectorTest::testBasicFunctions_purify_8 | 18/10/26 13:16
+Timeout time : 18/10/26 13:32
+Current failed test : org.apache.commons.math.linear.SparseRealVectorTest::testBasicFunctions_purify_5 | 18/10/26 13:32
+Timeout time : 18/10/26 13:51

@@ -1,0 +1,132 @@
+project,bug_id,mutant_id,reason
+Closure,63,6300021,checkout/compilation failed
+Closure,63,6300022,checkout/compilation failed
+Closure,63,6300023,checkout/compilation failed
+Closure,63,6300024,checkout/compilation failed
+Closure,63,6300025,checkout/compilation failed
+Lang,19,1900075,checkout/compilation failed
+Lang,46,4600013,checkout/compilation failed
+Math,62,6200029,checkout/compilation failed
+Time,16,1600118,checkout/compilation failed
+Closure,110,11000174,0 triggering test cases
+Closure,117,11700213,0 triggering test cases
+Closure,117,11700223,0 triggering test cases
+Closure,32,3200565,0 triggering test cases
+Closure,32,3200566,0 triggering test cases
+Closure,41,4100184,0 triggering test cases
+Closure,41,4100187,0 triggering test cases
+Closure,41,4100189,0 triggering test cases
+Closure,43,4300157,0 triggering test cases
+Closure,43,4300160,0 triggering test cases
+Closure,54,5400093,0 triggering test cases
+Closure,73,7300881,0 triggering test cases
+Closure,73,7300888,0 triggering test cases
+Closure,82,8200020,0 triggering test cases
+Closure,90,9000350,0 triggering test cases
+Closure,95,9500516,0 triggering test cases
+Closure,95,9500517,0 triggering test cases
+Closure,95,9500519,0 triggering test cases
+Closure,95,9500521,0 triggering test cases
+Closure,95,9500522,0 triggering test cases
+Closure,95,9500525,0 triggering test cases
+Closure,95,9500526,0 triggering test cases
+Closure,96,9600530,0 triggering test cases
+Math,31,3100035,0 triggering test cases
+Time,17,1700383,0 triggering test cases
+Time,26,2600190,0 triggering test cases
+Closure,54,5400085,failing test classes
+Closure,54,5400098,failing test classes
+Lang,10,1000061,failing test classes
+Lang,10,1000062,failing test classes
+Lang,9,900027,failing test classes
+Time,24,2400073,failing test classes
+Time,24,2400074,failing test classes
+Time,6,600020,failing test classes
+Time,6,600022,failing test classes
+Time,8,800049,failing test classes
+Time,8,800050,failing test classes
+Time,8,800052,failing test classes
+Time,8,800053,failing test classes
+Time,8,800057,failing test classes
+Time,8,800062,failing test classes
+Time,8,800064,failing test classes
+Time,8,800068,failing test classes
+Time,9,900039,failing test classes
+Time,9,900040,failing test classes
+Time,9,900042,failing test classes
+Time,9,900043,failing test classes
+Time,9,900044,failing test classes
+Time,9,900046,failing test classes
+Time,9,900075,failing test classes
+Time,9,900078,failing test classes
+Time,9,900082,failing test classes
+Time,9,900083,failing test classes
+Time,9,900085,failing test classes
+Time,9,900087,failing test classes
+Closure,129,12900029,timeout
+Closure,131,13100061,timeout
+Closure,131,13100067,timeout
+Closure,131,13100073,timeout
+Closure,131,13100080,timeout
+Closure,13,1300038,timeout
+Closure,41,4100065,timeout
+Closure,41,4100192,timeout
+Closure,85,8500061,timeout
+Closure,85,8500062,timeout
+Lang,19,1900045,timeout
+Lang,41,4100101,timeout
+Lang,41,4100103,timeout
+Lang,60,6000990,timeout
+Lang,63,6300153,timeout
+Math,39,3900114,timeout
+Math,39,3900115,timeout
+Math,39,3900119,timeout
+Math,39,3900121,timeout
+Math,39,3900123,timeout
+Math,39,3900124,timeout
+Math,39,3900125,timeout
+Math,39,3900127,timeout
+Math,39,3900128,timeout
+Math,39,3900129,timeout
+Math,39,3900130,timeout
+Math,39,3900132,timeout
+Math,39,3900133,timeout
+Math,39,3900134,timeout
+Math,57,5700034,timeout
+Math,6,601302,timeout
+Math,74,7400081,timeout
+Math,74,7400084,timeout
+Math,74,7400087,timeout
+Math,74,7400088,timeout
+Math,74,7400089,timeout
+Math,74,7400090,timeout
+Math,74,7400092,timeout
+Math,74,7400093,timeout
+Math,74,7400096,timeout
+Math,74,7400099,timeout
+Math,74,7400100,timeout
+Math,74,7400101,timeout
+Math,74,7400102,timeout
+Math,7,700070,timeout
+Math,7,700096,timeout
+Math,81,8100916,timeout
+Math,94,9400168,timeout
+Math,94,9400169,timeout
+Math,94,9400172,timeout
+Math,94,9400173,timeout
+Math,94,9400174,timeout
+Math,94,9400177,timeout
+Math,94,9400179,timeout
+Math,94,9400180,timeout
+Math,97,9700047,timeout
+Math,97,9700048,timeout
+Mockito,19,1900033,failing test classes
+Mockito,19,1900044,failing test classes
+Mockito,19,1900045,failing test classes
+Mockito,19,1900047,failing test classes
+Mockito,19,1900057,failing test classes
+Mockito,20,2000004,failing test classes
+Mockito,20,2000005,failing test classes
+Math,59,5908272,0 triggering test cases
+Math,59,5908277,0 triggering test cases
+Math,59,5908278,0 triggering test cases

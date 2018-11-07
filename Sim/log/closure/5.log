@@ -1,0 +1,4 @@
+=================================================
+Project : closure_5	start : 18/10/29 11:58
+Current failed test : com.google.javascript.jscomp.InlineObjectLiteralsTest::testNoInlineDeletedProperties | 18/10/29 11:58
+Timeout time : 18/10/29 12:36

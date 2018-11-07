@@ -1,0 +1,18 @@
+=================================================
+Project : math_37	start : 18/10/25 19:06
+Current failed test : org.apache.commons.math.complex.ComplexTest::testTanh_purify_2 | 18/10/25 19:07
+Timeout time : 18/10/25 19:13
+Current failed test : org.apache.commons.math.complex.ComplexTest::testTanh_purify_3 | 18/10/25 19:13
+Timeout time : 18/10/25 19:16
+Current failed test : org.apache.commons.math.complex.ComplexTest::testTanhInf_purify_3 | 18/10/25 19:16
+Timeout time : 18/10/25 19:19
+Current failed test : org.apache.commons.math.complex.ComplexTest::testTanhInf_purify_4 | 18/10/25 19:19
+Timeout time : 18/10/25 19:22
+Current failed test : org.apache.commons.math.complex.ComplexTest::testTan_purify_2 | 18/10/25 19:22
+Timeout time : 18/10/25 19:27
+Current failed test : org.apache.commons.math.complex.ComplexTest::testTan_purify_3 | 18/10/25 19:27
+Timeout time : 18/10/25 19:31
+Current failed test : org.apache.commons.math.complex.ComplexTest::testTanInf_purify_1 | 18/10/25 19:31
+Timeout time : 18/10/25 19:36
+Current failed test : org.apache.commons.math.complex.ComplexTest::testTanInf_purify_2 | 18/10/25 19:36
+Timeout time : 18/10/25 19:39

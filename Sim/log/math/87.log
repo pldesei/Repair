@@ -1,0 +1,18 @@
+=================================================
+Project : math_87	start : 18/10/26 18:00
+Current failed test : org.apache.commons.math.optimization.linear.SimplexSolverTest::testSingleVariableAndConstraint | 18/10/26 18:00
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+double mostNegative = basicRow != null ? 0 : getEntry ( basicRow , getRhsOffset ( ) ) ; 
+Time : 18/10/26 18:19
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+double mostNegative = basicRow == null ? 0 : getEntry ( basicRow , getNumArtificialVariables ( ) ) ; 
+Time : 18/10/26 18:23
+----------------------------------------
+Timeout time : 18/10/26 18:31

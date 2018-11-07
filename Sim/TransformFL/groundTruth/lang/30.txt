@@ -1,0 +1,6 @@
+org.apache.commons.lang3.StringUtils#int#indexOfAny#?,CharSequence,char[]
+org.apache.commons.lang3.StringUtils#int#indexOfAnyBut#?,String,String
+org.apache.commons.lang3.StringUtils#boolean#containsNone#?,CharSequence,char[]
+org.apache.commons.lang3.StringUtils#int#indexOfAnyBut#?,CharSequence,char[]
+org.apache.commons.lang3.StringUtils#boolean#containsAny#?,CharSequence,char[]
+org.apache.commons.lang3.StringUtils#boolean#containsAny#?,CharSequence,String

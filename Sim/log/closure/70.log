@@ -1,0 +1,8 @@
+=================================================
+Project : closure_70	start : 18/10/23 11:36
+Current failed test : com.google.javascript.jscomp.LooseTypeCheckTest::testDuplicateLocalVarDecl | 18/10/23 11:36
+Failed time : 18/10/23 11:36
+=================================================
+Project : closure_70	start : 18/10/30 23:22
+Current failed test : com.google.javascript.jscomp.LooseTypeCheckTest::testDuplicateLocalVarDecl | 18/10/30 23:22
+Timeout time : 18/10/30 23:53

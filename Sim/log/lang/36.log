@@ -1,0 +1,6 @@
+=================================================
+Project : lang_36	start : 18/10/28 06:45
+Current failed test : org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber_purify_23 | 18/10/28 06:48
+Timeout time : 18/10/28 07:06
+Current failed test : org.apache.commons.lang3.math.NumberUtilsTest::testIsNumber_purify_12 | 18/10/28 07:06
+Timeout time : 18/10/28 07:25

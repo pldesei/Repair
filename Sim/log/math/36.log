@@ -1,0 +1,6 @@
+=================================================
+Project : math_36	start : 18/10/25 18:35
+Current failed test : org.apache.commons.math.fraction.BigFractionTest::testFloatValueForLargeNumeratorAndDenominator | 18/10/25 18:35
+Timeout time : 18/10/25 18:50
+Current failed test : org.apache.commons.math.fraction.BigFractionTest::testDoubleValueForLargeNumeratorAndDenominator | 18/10/25 18:50
+Timeout time : 18/10/25 19:06

@@ -1,0 +1,4 @@
+=================================================
+Project : closure_98	start : 18/10/31 18:28
+Current failed test : com.google.javascript.jscomp.InlineVariablesTest::testNoInlineAliasesInLoop | 18/10/31 18:29
+Timeout time : 18/10/31 19:02

@@ -1,0 +1,10 @@
+=================================================
+Project : chart_25	start : 18/10/24 18:08
+Current failed test : org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests::testDrawWithNullMeanVertical | 18/10/24 18:08
+Timeout time : 18/10/24 18:16
+Current failed test : org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests::testDrawWithNullDeviationVertical | 18/10/24 18:16
+Timeout time : 18/10/24 18:24
+Current failed test : org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests::testDrawWithNullDeviationHorizontal | 18/10/24 18:24
+Timeout time : 18/10/24 18:32
+Current failed test : org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests::testDrawWithNullMeanHorizontal | 18/10/24 18:32
+Timeout time : 18/10/24 18:40

@@ -1,0 +1,11 @@
+=================================================
+Project : lang_26	start : 18/10/28 00:33
+Current failed test : org.apache.commons.lang3.time.FastDateFormatTest::testLang645 | 18/10/28 00:33
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+Calendar c = new GregorianCalendar ( mLocale ) ; 
+Time : 18/10/28 00:45
+----------------------------------------
+Timeout time : 18/10/28 01:06

@@ -1,0 +1,14 @@
+=================================================
+Project : math_84	start : 18/10/26 17:21
+Current failed test : org.apache.commons.math.optimization.direct.MultiDirectionalTest::testMath283_purify_1 | 18/10/26 17:22
+Timeout time : 18/10/26 17:29
+Current failed test : org.apache.commons.math.optimization.direct.MultiDirectionalTest::testMath283_purify_2 | 18/10/26 17:29
+Timeout time : 18/10/26 17:36
+Current failed test : org.apache.commons.math.optimization.direct.MultiDirectionalTest::testMath283_purify_3 | 18/10/26 17:36
+Timeout time : 18/10/26 17:42
+Current failed test : org.apache.commons.math.optimization.direct.MultiDirectionalTest::testMinimizeMaximize_purify_9 | 18/10/26 17:42
+Timeout time : 18/10/26 17:48
+Current failed test : org.apache.commons.math.optimization.direct.MultiDirectionalTest::testMinimizeMaximize_purify_11 | 18/10/26 17:48
+Timeout time : 18/10/26 17:54
+Current failed test : org.apache.commons.math.optimization.direct.MultiDirectionalTest::testMinimizeMaximize_purify_14 | 18/10/26 17:54
+Timeout time : 18/10/26 18:00

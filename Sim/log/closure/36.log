@@ -1,0 +1,4 @@
+=================================================
+Project : closure_36	start : 18/10/30 07:00
+Current failed test : com.google.javascript.jscomp.IntegrationTest::testSingletonGetter1 | 18/10/30 07:00
+Timeout time : 18/10/30 07:33

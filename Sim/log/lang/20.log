@@ -1,0 +1,6 @@
+=================================================
+Project : lang_20	start : 18/10/27 21:23
+Current failed test : org.apache.commons.lang3.StringUtilsTest::testJoin_Objectarray_purify_6 | 18/10/27 21:24
+Timeout time : 18/10/27 21:40
+Current failed test : org.apache.commons.lang3.StringUtilsTest::testJoin_ArrayChar_purify_8 | 18/10/27 21:40
+Timeout time : 18/10/27 21:56

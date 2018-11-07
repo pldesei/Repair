@@ -1,0 +1,15 @@
+=================================================
+Project : math_71	start : 18/10/26 09:51
+Current failed test : org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegratorTest::testMissedEndEvent_purify_1 | 18/10/26 09:52
+Timeout time : 18/10/26 10:03
+Current failed test : org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegratorTest::testMissedEndEvent_purify_4 | 18/10/26 10:03
+Timeout time : 18/10/26 10:15
+Current failed test : org.apache.commons.math.ode.nonstiff.DormandPrince853IntegratorTest::testMissedEndEvent_purify_2 | 18/10/26 10:15
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( ( initialStepSize > minStep ) || ( initialStepSize > maxStep ) ) { 
+Time : 18/10/26 10:17
+----------------------------------------
+Success time : 18/10/26 10:18

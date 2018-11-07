@@ -1,0 +1,78 @@
+=================================================
+Project : math_33	start : 18/10/23 11:34
+Current failed test : org.apache.commons.math3.optimization.linear.SimplexSolverTest::testMath781 | 18/10/23 11:35
+=================================================
+Project : math_33	start : 18/10/24 01:09
+Current failed test : org.apache.commons.math3.optimization.linear.SimplexSolverTest::testMath781 | 18/10/24 01:09
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( Precision . compareTo ( entry , 2d , maxUlps ) > 0 ) { 
+Time : 18/10/24 01:11
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( Precision . compareTo ( entry , 1d , maxUlps ) > 0 ) { 
+Time : 18/10/24 01:12
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( Precision . compareTo ( entry , 0d , maxUlps ) < 0 ) { 
+Time : 18/10/24 01:13
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( Precision . compareTo ( entry , 0d , maxUlps ) > 1 ) { 
+Time : 18/10/24 01:14
+----------------------------------------
+Failed time : 18/10/24 01:15
+=================================================
+Project : math_33	start : 18/10/24 01:19
+Current failed test : org.apache.commons.math3.optimization.linear.SimplexSolverTest::testMath781 | 18/10/24 01:19
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( Precision . compareTo ( entry , 2d , maxUlps ) > 0 ) { 
+Time : 18/10/24 01:27
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( Precision . compareTo ( entry , 1d , maxUlps ) > 0 ) { 
+Time : 18/10/24 01:28
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( Precision . compareTo ( entry , 15d , maxUlps ) > 0 ) { 
+Time : 18/10/24 01:29
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( Precision . compareTo ( entry , 3d , maxUlps ) > 0 ) { 
+Time : 18/10/24 01:30
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( Precision . compareTo ( entry , 0.33333333333333 , maxUlps ) > 0 ) { 
+Time : 18/10/24 01:31
+----------------------------------------
+Success time : 18/10/24 01:32
+=================================================
+Project : math_33	start : 18/10/25 17:01
+Current failed test : org.apache.commons.math3.optimization.linear.SimplexSolverTest::testMath781 | 18/10/25 17:01
+Timeout time : 18/10/25 17:31

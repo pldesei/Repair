@@ -1,0 +1,3 @@
+org.apache.commons.math.util.MathUtils#double#factorialLog#?,int
+org.apache.commons.math.util.MathUtils#long#factorial#?,int
+org.apache.commons.math.util.MathUtils#double#factorialDouble#?,int

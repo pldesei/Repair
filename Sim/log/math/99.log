@@ -1,0 +1,73 @@
+=================================================
+Project : math_99	start : 18/10/27 03:36
+Current failed test : org.apache.commons.math.util.MathUtilsTest::testGcd_purify_18 | 18/10/27 03:38
+Timeout time : 18/10/27 03:45
+Current failed test : org.apache.commons.math.util.MathUtilsTest::testGcd_purify_19 | 18/10/27 03:45
+Timeout time : 18/10/27 03:52
+Current failed test : org.apache.commons.math.util.MathUtilsTest::testLcm_purify_13 | 18/10/27 03:52
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int lcm = Math . abs ( subAndCheck ( a / gcd ( a , b ) , b ) ) ; 
+Time : 18/10/27 03:55
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int lcm = Math . abs ( mulAndCheck ( a / subAndCheck ( a , b ) , b ) ) ; 
+Time : 18/10/27 03:57
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int lcm = Math . abs ( mulAndCheck ( a / gcd ( a , a ) , b ) ) ; 
+Time : 18/10/27 03:58
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int lcm = Math . abs ( mulAndCheck ( a / gcd ( a , b ) , a ) ) ; 
+Time : 18/10/27 03:58
+----------------------------------------
+Timeout time : 18/10/27 03:59
+Current failed test : org.apache.commons.math.util.MathUtilsTest::testLcm_purify_14 | 18/10/27 03:59
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int lcm = Math . abs ( mulAndCheck ( a / mulAndCheck ( a , b ) , b ) ) ; 
+Time : 18/10/27 04:03
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int lcm = Math . abs ( mulAndCheck ( a / subAndCheck ( a , b ) , b ) ) ; 
+Time : 18/10/27 04:04
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int lcm = Math . abs ( mulAndCheck ( a / gcd ( a , a ) , b ) ) ; 
+Time : 18/10/27 04:05
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int lcm = Math . abs ( mulAndCheck ( a / gcd ( a , b ) , a ) ) ; 
+Time : 18/10/27 04:05
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+u /= 3 ; 
+Time : 18/10/27 04:07
+----------------------------------------
+Timeout time : 18/10/27 04:17

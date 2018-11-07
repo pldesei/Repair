@@ -1,0 +1,4 @@
+=================================================
+Project : lang_64	start : 18/10/28 19:49
+Current failed test : org.apache.commons.lang.enums.ValuedEnumTest::testCompareTo_otherEnumType | 18/10/28 19:49
+Timeout time : 18/10/28 20:20

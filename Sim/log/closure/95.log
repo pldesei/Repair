@@ -1,0 +1,4 @@
+=================================================
+Project : closure_95	start : 18/10/31 12:32
+Current failed test : com.google.javascript.jscomp.TypeCheckTest::testQualifiedNameInference5 | 18/10/31 12:32
+Timeout time : 18/10/31 13:05

@@ -1,0 +1,4 @@
+=================================================
+Project : math_51	start : 18/10/26 00:09
+Current failed test : org.apache.commons.math.analysis.solvers.RegulaFalsiSolverTest::testIssue631 | 18/10/26 00:09
+Timeout time : 18/10/26 00:39

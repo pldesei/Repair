@@ -1,0 +1,6 @@
+.DS_Store
+.settings/
+*.zip
+bin/
+trans*/
+info/

@@ -1,0 +1,10 @@
+=================================================
+Project : lang_15	start : 18/10/27 18:09
+Current failed test : org.apache.commons.lang3.reflect.TypeUtilsTest::testGetTypeArguments_purify_6 | 18/10/27 18:10
+Timeout time : 18/10/27 18:18
+Current failed test : org.apache.commons.lang3.reflect.TypeUtilsTest::testGetTypeArguments_purify_7 | 18/10/27 18:18
+Timeout time : 18/10/27 18:26
+Current failed test : org.apache.commons.lang3.reflect.TypeUtilsTest::testGetTypeArguments_purify_9 | 18/10/27 18:26
+Timeout time : 18/10/27 18:34
+Current failed test : org.apache.commons.lang3.reflect.TypeUtilsTest::testIsAssignable_purify_13 | 18/10/27 18:34
+Timeout time : 18/10/27 18:41

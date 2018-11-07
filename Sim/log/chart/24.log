@@ -1,0 +1,33 @@
+=================================================
+Project : chart_24	start : 18/10/23 11:02
+Current failed test : org.jfree.chart.renderer.junit.GrayPaintScaleTests::testGetPaint | 18/10/23 11:02
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int g = ( int ) ( ( v - this . lowerBound ) / ( this . upperBound 
+Time : 18/10/23 11:14
+----------------------------------------
+Success time : 18/10/23 11:14
+=================================================
+Project : chart_24	start : 18/10/23 11:15
+Current failed test : org.jfree.chart.renderer.junit.GrayPaintScaleTests::testGetPaint | 18/10/23 11:15
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int g = ( int ) ( ( v - this . lowerBound ) / ( this . upperBound 
+Time : 18/10/23 11:16
+----------------------------------------
+Success time : 18/10/23 11:16
+=================================================
+Project : chart_24	start : 18/10/24 18:40
+Current failed test : org.jfree.chart.renderer.junit.GrayPaintScaleTests::testGetPaint | 18/10/24 18:41
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+value = Math . min ( v , this . upperBound ) ; 
+Time : 18/10/24 18:45
+----------------------------------------
+Success time : 18/10/24 18:45

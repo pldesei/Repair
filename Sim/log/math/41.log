@@ -1,0 +1,4 @@
+=================================================
+Project : math_41	start : 18/10/25 21:14
+Current failed test : org.apache.commons.math.stat.descriptive.moment.VarianceTest::testEvaluateArraySegmentWeighted | 18/10/25 21:14
+Timeout time : 18/10/25 21:49

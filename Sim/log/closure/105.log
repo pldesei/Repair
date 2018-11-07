@@ -1,0 +1,4 @@
+=================================================
+Project : closure_105	start : 18/11/01 00:46
+Current failed test : com.google.javascript.jscomp.FoldConstantsTest::testStringJoinAdd | 18/11/01 00:46
+Timeout time : 18/11/01 01:16

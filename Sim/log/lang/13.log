@@ -1,0 +1,4 @@
+=================================================
+Project : lang_13	start : 18/10/27 17:06
+Current failed test : org.apache.commons.lang3.SerializationUtilsTest::testPrimitiveTypeClassSerialization | 18/10/27 17:06
+Timeout time : 18/10/27 17:38

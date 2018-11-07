@@ -1,0 +1,4 @@
+=================================================
+Project : closure_84	start : 18/10/31 08:11
+Current failed test : com.google.javascript.jscomp.parsing.ParserTest::testDestructuringAssignForbidden4 | 18/10/31 08:11
+Timeout time : 18/10/31 08:46

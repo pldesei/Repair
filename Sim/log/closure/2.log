@@ -1,0 +1,18 @@
+=================================================
+Project : closure_2	start : 18/10/29 10:08
+Current failed test : com.google.javascript.jscomp.TypeCheckTest::testBadInterfaceExtendsNonExistentInterfaces | 18/10/29 10:08
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+ObjectType implicitProto = interfaceType . toObjectType ( ) ; 
+Time : 18/10/29 10:25
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+currentPropertyNames = interfaceType . getOwnPropertyNames ( ) ; 
+Time : 18/10/29 10:31
+----------------------------------------
+Timeout time : 18/10/29 10:44

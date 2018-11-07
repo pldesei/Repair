@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.NodeTraversal#void#traverseFunction#?,Node,Node
+com.google.javascript.jscomp.parsing.IRFactory$TransformDispatcher#Node#processFunctionNode#?,FunctionNode

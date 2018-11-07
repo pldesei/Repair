@@ -1,0 +1,6 @@
+=================================================
+Project : closure_60	start : 18/10/30 21:37
+Current failed test : com.google.javascript.jscomp.NodeUtilTest::testGetBooleanValue_purify_13 | 18/10/30 21:39
+Timeout time : 18/10/30 21:58
+Current failed test : com.google.javascript.jscomp.CommandLineRunnerTest::testIssue504 | 18/10/30 21:58
+Timeout time : 18/10/30 22:17

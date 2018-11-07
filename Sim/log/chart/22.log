@@ -1,0 +1,32 @@
+=================================================
+Project : chart_22	start : 18/10/24 17:24
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveRowByKey_purify_3 | 18/10/24 17:25
+Timeout time : 18/10/24 17:28
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveRowByKey_purify_4 | 18/10/24 17:28
+Timeout time : 18/10/24 17:31
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testSetObject_purify_3 | 18/10/24 17:31
+Timeout time : 18/10/24 17:34
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testSetObject_purify_4 | 18/10/24 17:34
+Timeout time : 18/10/24 17:36
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveValue_purify_2 | 18/10/24 17:36
+Timeout time : 18/10/24 17:39
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByIndex_purify_1 | 18/10/24 17:39
+Timeout time : 18/10/24 17:42
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByIndex_purify_2 | 18/10/24 17:42
+Timeout time : 18/10/24 17:45
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByIndex_purify_3 | 18/10/24 17:45
+Timeout time : 18/10/24 17:48
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByIndex_purify_4 | 18/10/24 17:48
+Timeout time : 18/10/24 17:51
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testGetValueByKey_purify_4 | 18/10/24 17:51
+Timeout time : 18/10/24 17:54
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testGetValueByKey_purify_5 | 18/10/24 17:54
+Timeout time : 18/10/24 17:57
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByKey_purify_1 | 18/10/24 17:57
+Timeout time : 18/10/24 17:59
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByKey_purify_2 | 18/10/24 17:59
+Timeout time : 18/10/24 18:02
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByKey_purify_3 | 18/10/24 18:02
+Timeout time : 18/10/24 18:05
+Current failed test : org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByKey_purify_4 | 18/10/24 18:05
+Timeout time : 18/10/24 18:08

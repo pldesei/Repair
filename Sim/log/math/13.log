@@ -1,0 +1,4 @@
+=================================================
+Project : math_13	start : 18/10/25 03:34
+Current failed test : org.apache.commons.math3.optimization.fitting.PolynomialFitterTest::testLargeSample | 18/10/25 03:37
+Timeout time : 18/10/25 04:26

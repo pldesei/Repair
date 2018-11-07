@@ -1,0 +1,11 @@
+=================================================
+Project : math_97	start : 18/10/27 04:48
+Current failed test : org.apache.commons.math.analysis.BrentSolverTest::testRootEndpoints | 18/10/27 04:48
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( sign >= 1 ) { 
+Time : 18/10/27 05:17
+----------------------------------------
+Timeout time : 18/10/27 05:18

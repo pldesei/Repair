@@ -1,0 +1,2 @@
+org.apache.commons.lang.time.DurationFormatUtils#int#reduceAndCorrect#?,Calendar,Calendar,int,int
+org.apache.commons.lang.time.DurationFormatUtils#String#formatPeriod#?,long,long,String,boolean,TimeZone

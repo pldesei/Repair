@@ -1,0 +1,38 @@
+=================================================
+Project : lang_30	start : 18/10/28 02:25
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_CharArrayWithSupplementaryChars_purify_7 | 18/10/28 02:27
+Timeout time : 18/10/28 02:30
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_CharArrayWithSupplementaryChars_purify_8 | 18/10/28 02:30
+Timeout time : 18/10/28 02:33
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringCharArrayWithSupplementaryChars_purify_1 | 18/10/28 02:33
+Timeout time : 18/10/28 02:35
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringCharArrayWithSupplementaryChars_purify_2 | 18/10/28 02:35
+Timeout time : 18/10/28 02:38
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringCharArrayWithSupplementaryChars_purify_4 | 18/10/28 02:38
+Timeout time : 18/10/28 02:41
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAny_StringWithBadSupplementaryChars_purify_3 | 18/10/28 02:41
+Timeout time : 18/10/28 02:44
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAny_StringCharArrayWithBadSupplementaryChars_purify_4 | 18/10/28 02:44
+Timeout time : 18/10/28 02:46
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_CharArrayWithBadSupplementaryChars_purify_3 | 18/10/28 02:46
+Timeout time : 18/10/28 02:49
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAny_StringCharArrayWithSupplementaryChars_purify_2 | 18/10/28 02:49
+Timeout time : 18/10/28 02:52
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAny_StringCharArrayWithSupplementaryChars_purify_4 | 18/10/28 02:52
+Timeout time : 18/10/28 02:54
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAny_StringStringWithSupplementaryChars_purify_2 | 18/10/28 02:54
+Timeout time : 18/10/28 02:57
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAny_StringStringWithSupplementaryChars_purify_4 | 18/10/28 02:57
+Timeout time : 18/10/28 03:00
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringStringWithSupplementaryChars_purify_1 | 18/10/28 03:00
+Timeout time : 18/10/28 03:03
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringStringWithSupplementaryChars_purify_2 | 18/10/28 03:03
+Timeout time : 18/10/28 03:05
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringStringWithSupplementaryChars_purify_4 | 18/10/28 03:05
+Timeout time : 18/10/28 03:08
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_StringWithBadSupplementaryChars_purify_3 | 18/10/28 03:08
+Timeout time : 18/10/28 03:11
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_StringWithSupplementaryChars_purify_7 | 18/10/28 03:11
+Timeout time : 18/10/28 03:14
+Current failed test : org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_StringWithSupplementaryChars_purify_8 | 18/10/28 03:14
+Timeout time : 18/10/28 03:16

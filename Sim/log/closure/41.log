@@ -1,0 +1,8 @@
+=================================================
+Project : closure_41	start : 18/10/30 09:54
+Current failed test : com.google.javascript.jscomp.TypeCheckTest::testMethodInference6 | 18/10/30 09:55
+Timeout time : 18/10/30 10:08
+Current failed test : com.google.javascript.jscomp.TypeCheckTest::testIssue368 | 18/10/30 10:08
+Timeout time : 18/10/30 10:21
+Current failed test : com.google.javascript.jscomp.LooseTypeCheckTest::testMethodInference6 | 18/10/30 10:21
+Timeout time : 18/10/30 10:34

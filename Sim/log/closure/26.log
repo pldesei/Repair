@@ -1,0 +1,14 @@
+=================================================
+Project : closure_26	start : 18/10/30 00:45
+Current failed test : com.google.javascript.jscomp.ProcessCommonJSModulesTest::testDash | 18/10/30 00:46
+Timeout time : 18/10/30 00:52
+Current failed test : com.google.javascript.jscomp.CommandLineRunnerTest::testTransformAMDAndProcessCJS | 18/10/30 00:52
+Timeout time : 18/10/30 00:57
+Current failed test : com.google.javascript.jscomp.ProcessCommonJSModulesTest::testVarRenaming | 18/10/30 00:57
+Timeout time : 18/10/30 01:02
+Current failed test : com.google.javascript.jscomp.ProcessCommonJSModulesTest::testWithoutExports | 18/10/30 01:02
+Timeout time : 18/10/30 01:07
+Current failed test : com.google.javascript.jscomp.CommandLineRunnerTest::testProcessCJS | 18/10/30 01:07
+Timeout time : 18/10/30 01:12
+Current failed test : com.google.javascript.jscomp.ProcessCommonJSModulesTest::testExports | 18/10/30 01:12
+Timeout time : 18/10/30 01:17

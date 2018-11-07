@@ -1,0 +1,31 @@
+=================================================
+Project : lang_19	start : 18/10/27 19:46
+Current failed test : org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testUnfinishedEntity | 18/10/27 19:47
+Timeout time : 18/10/27 19:55
+Current failed test : org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testOutOfBounds_purify_2 | 18/10/27 19:55
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int seqEnd = "ADFGZ" . length ( ) ; 
+Time : 18/10/27 20:02
+----------------------------------------
+Timeout time : 18/10/27 20:03
+Current failed test : org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testOutOfBounds_purify_3 | 18/10/27 20:03
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int seqEnd = "ADFGZ" . length ( ) ; 
+Time : 18/10/27 20:10
+----------------------------------------
+Timeout time : 18/10/27 20:11
+Current failed test : org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testOutOfBounds_purify_4 | 18/10/27 20:11
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+int seqEnd = "ADFGZ" . length ( ) ; 
+Time : 18/10/27 20:18
+----------------------------------------
+Timeout time : 18/10/27 20:19

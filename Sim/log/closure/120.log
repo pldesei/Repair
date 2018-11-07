@@ -1,0 +1,4 @@
+=================================================
+Project : closure_120	start : 18/11/01 10:43
+Current failed test : com.google.javascript.jscomp.InlineVariablesTest::testExternalIssue1053 | 18/11/01 10:44
+Timeout time : 18/11/01 11:17

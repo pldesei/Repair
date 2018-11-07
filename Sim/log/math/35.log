@@ -1,0 +1,10 @@
+=================================================
+Project : math_35	start : 18/10/25 15:01
+Current failed test : org.apache.commons.math3.genetics.ElitisticListPopulationTest::testChromosomeListConstructorTooHigh | 18/10/25 15:02
+Timeout time : 18/10/25 15:22
+Current failed test : org.apache.commons.math3.genetics.ElitisticListPopulationTest::testConstructorTooHigh | 18/10/25 15:22
+Timeout time : 18/10/25 15:42
+Current failed test : org.apache.commons.math3.genetics.ElitisticListPopulationTest::testChromosomeListConstructorTooLow | 18/10/25 15:42
+Timeout time : 18/10/25 16:03
+Current failed test : org.apache.commons.math3.genetics.ElitisticListPopulationTest::testConstructorTooLow | 18/10/25 16:03
+Timeout time : 18/10/25 16:23

@@ -1,0 +1,4 @@
+=================================================
+Project : math_43	start : 18/10/25 20:12
+Current failed test : org.apache.commons.math.stat.descriptive.SummaryStatisticsTest::testOverrideMeanWithMathClass | 18/10/25 20:12
+Timeout time : 18/10/25 20:43

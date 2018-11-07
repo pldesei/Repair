@@ -1,0 +1,2 @@
+org.apache.commons.lang.text.StrBuilder#int#indexOf#?,char,int
+org.apache.commons.lang.text.StrBuilder#boolean#contains#?,char

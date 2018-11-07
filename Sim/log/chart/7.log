@@ -1,0 +1,11 @@
+=================================================
+Project : chart_7	start : 18/10/24 09:42
+Current failed test : org.jfree.data.time.junit.TimePeriodValuesTests::testGetMaxMiddleIndex | 18/10/24 09:42
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return this . maxStartIndex ; 
+Time : 18/10/24 09:43
+----------------------------------------
+Success time : 18/10/24 09:43

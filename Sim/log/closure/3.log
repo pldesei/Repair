@@ -1,0 +1,8 @@
+=================================================
+Project : closure_3	start : 18/10/29 10:44
+Current failed test : com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testDoNotInlineCatchExpression1 | 18/10/29 10:45
+Timeout time : 18/10/29 10:59
+Current failed test : com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testDoNotInlineCatchExpression3 | 18/10/29 10:59
+Timeout time : 18/10/29 11:12
+Current failed test : com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testDoNotInlineCatchExpression1a | 18/10/29 11:12
+Timeout time : 18/10/29 11:26

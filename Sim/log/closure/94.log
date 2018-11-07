@@ -1,0 +1,40 @@
+=================================================
+Project : closure_94	start : 18/10/31 13:05
+Current failed test : com.google.javascript.jscomp.NodeUtilTest::testValidDefine_purify_13 | 18/10/31 13:05
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return true ; 
+Time : 18/10/31 13:06
+----------------------------------------
+Timeout time : 18/10/31 13:16
+Current failed test : com.google.javascript.jscomp.NodeUtilTest::testValidDefine_purify_14 | 18/10/31 13:16
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return true ; 
+Time : 18/10/31 13:16
+----------------------------------------
+Timeout time : 18/10/31 13:27
+Current failed test : com.google.javascript.jscomp.NodeUtilTest::testValidDefine_purify_15 | 18/10/31 13:27
+Timeout time : 18/10/31 13:37
+Current failed test : com.google.javascript.jscomp.ProcessDefinesTest::testOverridingString1 | 18/10/31 13:37
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return true ; 
+Time : 18/10/31 13:37
+----------------------------------------
+Timeout time : 18/10/31 13:47
+Current failed test : com.google.javascript.jscomp.ProcessDefinesTest::testOverridingString3 | 18/10/31 13:47
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return true ; 
+Time : 18/10/31 13:48
+----------------------------------------
+Timeout time : 18/10/31 13:58

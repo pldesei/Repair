@@ -1,0 +1,11 @@
+=================================================
+Project : math_95	start : 18/10/26 21:57
+Current failed test : org.apache.commons.math.distribution.FDistributionTest::testSmallDegreesOfFreedom | 18/10/26 21:57
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+ret = d / ( d + 2.0 ) ; 
+Time : 18/10/26 22:10
+----------------------------------------
+Success time : 18/10/26 22:11

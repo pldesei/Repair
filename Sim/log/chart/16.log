@@ -1,0 +1,22 @@
+=================================================
+Project : chart_16	start : 18/10/24 14:15
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetColumnIndex | 18/10/24 14:15
+Timeout time : 18/10/24 14:19
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetColumnCount | 18/10/24 14:19
+Timeout time : 18/10/24 14:22
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetRowCount | 18/10/24 14:22
+Timeout time : 18/10/24 14:26
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testCloning2_purify_1 | 18/10/24 14:26
+Timeout time : 18/10/24 14:29
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testCloning2_purify_2 | 18/10/24 14:29
+Timeout time : 18/10/24 14:33
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testCloning2_purify_3 | 18/10/24 14:33
+Timeout time : 18/10/24 14:36
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetSeriesIndex | 18/10/24 14:36
+Timeout time : 18/10/24 14:40
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetRowIndex | 18/10/24 14:40
+Timeout time : 18/10/24 14:43
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testSetCategoryKeys | 18/10/24 14:43
+Timeout time : 18/10/24 14:47
+Current failed test : org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetCategoryIndex | 18/10/24 14:47
+Timeout time : 18/10/24 14:51

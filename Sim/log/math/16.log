@@ -1,0 +1,10 @@
+=================================================
+Project : math_16	start : 18/10/25 06:26
+Current failed test : org.apache.commons.math3.util.FastMathTest::testMath905LargeNegative_purify_1 | 18/10/25 06:26
+Timeout time : 18/10/25 06:34
+Current failed test : org.apache.commons.math3.util.FastMathTest::testMath905LargeNegative_purify_2 | 18/10/25 06:34
+Timeout time : 18/10/25 06:41
+Current failed test : org.apache.commons.math3.util.FastMathTest::testMath905LargePositive_purify_1 | 18/10/25 06:41
+Timeout time : 18/10/25 06:49
+Current failed test : org.apache.commons.math3.util.FastMathTest::testMath905LargePositive_purify_2 | 18/10/25 06:49
+Timeout time : 18/10/25 06:56

@@ -1,0 +1,11 @@
+=================================================
+Project : lang_58	start : 18/10/28 16:01
+Current failed test : org.apache.commons.lang.math.NumberUtilsTest::testLang300 | 18/10/28 16:01
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return true ; 
+Time : 18/10/28 16:03
+----------------------------------------
+Timeout time : 18/10/28 16:32

@@ -1,0 +1,96 @@
+=================================================
+Project : chart_2	start : 18/10/24 07:17
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_3_purify_1 | 18/10/24 07:17
+Timeout time : 18/10/24 07:21
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_3_purify_2 | 18/10/24 07:21
+Timeout time : 18/10/24 07:24
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_3_purify_3 | 18/10/24 07:24
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xLow , xHigh , y , xLow , yHigh ) ) ; 
+Time : 18/10/24 07:27
+----------------------------------------
+Timeout time : 18/10/24 07:28
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_3_purify_4 | 18/10/24 07:28
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xLow , xHigh , y , yHigh , yHigh ) ) ; 
+Time : 18/10/24 07:30
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xLow , xHigh , y , xLow , yHigh ) ) ; 
+Time : 18/10/24 07:31
+----------------------------------------
+Timeout time : 18/10/24 07:32
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_3_purify_5 | 18/10/24 07:32
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xLow , xHigh , y , xLow , yHigh ) ) ; 
+Time : 18/10/24 07:35
+----------------------------------------
+Timeout time : 18/10/24 07:36
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_3_purify_6 | 18/10/24 07:36
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xLow , xHigh , y , yLow , yLow ) ) ; 
+Time : 18/10/24 07:39
+----------------------------------------
+Timeout time : 18/10/24 07:40
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_2_purify_1 | 18/10/24 07:40
+Timeout time : 18/10/24 07:44
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_2_purify_2 | 18/10/24 07:44
+Timeout time : 18/10/24 07:47
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_2_purify_3 | 18/10/24 07:47
+Timeout time : 18/10/24 07:51
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_2_purify_4 | 18/10/24 07:51
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xLow , xLow , y , yLow , yHigh ) ) ; 
+Time : 18/10/24 07:52
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xLow , yLow , y , yLow , yHigh ) ) ; 
+Time : 18/10/24 07:53
+----------------------------------------
+Timeout time : 18/10/24 07:55
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_2_purify_5 | 18/10/24 07:55
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xHigh , xHigh , y , yLow , yHigh ) ) ; 
+Time : 18/10/24 07:56
+----------------------------------------
+Timeout time : 18/10/24 07:59
+Current failed test : org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_2_purify_6 | 18/10/24 07:59
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xLow , xLow , y , yLow , yHigh ) ) ; 
+Time : 18/10/24 08:00
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+super ( new Double ( x ) , new XYInterval ( xLow , yLow , y , yLow , yHigh ) ) ; 
+Time : 18/10/24 08:01
+----------------------------------------
+Timeout time : 18/10/24 08:03

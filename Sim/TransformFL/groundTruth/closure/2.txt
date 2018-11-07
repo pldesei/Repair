@@ -1,0 +1,1 @@
+com.google.javascript.jscomp.TypeCheck#void#checkInterfaceConflictProperties#?,NodeTraversal,Node,String,HashMap<String,ObjectType>,HashMap<String,ObjectType>,ObjectType

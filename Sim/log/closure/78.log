@@ -1,0 +1,4 @@
+=================================================
+Project : closure_78	start : 18/10/31 03:43
+Current failed test : com.google.javascript.jscomp.PeepholeFoldConstantsTest::testFoldArithmetic | 18/10/31 03:43
+Timeout time : 18/10/31 04:13

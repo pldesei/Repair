@@ -1,0 +1,15 @@
+=================================================
+Project : closure_10	start : 18/10/23 11:38
+Current failed test : com.google.javascript.jscomp.PeepholeFoldConstantsTest::testIssue821 | 18/10/23 11:38
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return anyResultsMatch ( n , MAY_BE_STRING_PREDICATE ) ; 
+Time : 18/10/23 11:39
+----------------------------------------
+Success time : 18/10/23 11:41
+=================================================
+Project : closure_10	start : 18/10/29 14:45
+Current failed test : com.google.javascript.jscomp.PeepholeFoldConstantsTest::testIssue821 | 18/10/29 14:45
+Timeout time : 18/10/29 15:22

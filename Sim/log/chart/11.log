@@ -1,0 +1,33 @@
+=================================================
+Project : chart_11	start : 18/10/23 10:57
+Current failed test : org.jfree.chart.util.junit.ShapeUtilitiesTests::testEqualGeneralPaths | 18/10/23 10:57
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+PathIterator iterator2 = p2 . getPathIterator ( null ) ; 
+Time : 18/10/23 11:01
+----------------------------------------
+Success time : 18/10/23 11:01
+=================================================
+Project : chart_11	start : 18/10/23 11:17
+Current failed test : org.jfree.chart.util.junit.ShapeUtilitiesTests::testEqualGeneralPaths | 18/10/23 11:17
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+PathIterator iterator2 = p2 . getPathIterator ( null ) ; 
+Time : 18/10/23 11:19
+----------------------------------------
+Success time : 18/10/23 11:19
+=================================================
+Project : chart_11	start : 18/10/24 11:22
+Current failed test : org.jfree.chart.util.junit.ShapeUtilitiesTests::testEqualGeneralPaths | 18/10/24 11:22
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+PathIterator iterator1 = p2 . getPathIterator ( null ) ; 
+Time : 18/10/24 11:25
+----------------------------------------
+Success time : 18/10/24 11:25

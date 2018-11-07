@@ -1,0 +1,11 @@
+=================================================
+Project : closure_129	start : 18/11/01 11:17
+Current failed test : com.google.javascript.jscomp.IntegrationTest::testIssue937 | 18/11/01 11:17
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return true ; 
+Time : 18/11/01 11:18
+----------------------------------------
+Timeout time : 18/11/01 11:54

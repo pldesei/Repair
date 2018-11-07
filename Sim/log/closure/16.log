@@ -1,0 +1,6 @@
+=================================================
+Project : closure_16	start : 18/10/29 18:56
+Current failed test : com.google.javascript.jscomp.IntegrationTest::testIssue772 | 18/10/29 18:57
+Timeout time : 18/10/29 19:17
+Current failed test : com.google.javascript.jscomp.ScopedAliasesTest::testIssue772 | 18/10/29 19:17
+Timeout time : 18/10/29 19:37

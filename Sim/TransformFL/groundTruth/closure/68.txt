@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.parsing.JsDocInfoParser#boolean#parse#?
+com.google.javascript.jscomp.parsing.JsDocInfoParser#Node#parseBasicTypeExpression#?,JsDocToken
+com.google.javascript.jscomp.parsing.JsDocInfoParser#Node#parseFunctionType#?,JsDocToken

@@ -1,0 +1,6 @@
+=================================================
+Project : math_1	start : 18/10/24 21:11
+Current failed test : org.apache.commons.math3.fraction.BigFractionTest::testDigitLimitConstructor_purify_8 | 18/10/24 21:12
+Timeout time : 18/10/24 21:27
+Current failed test : org.apache.commons.math3.fraction.FractionTest::testDigitLimitConstructor_purify_8 | 18/10/24 21:27
+Timeout time : 18/10/24 21:42

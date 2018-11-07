@@ -1,0 +1,27 @@
+=================================================
+Project : lang_3	start : 18/10/27 11:43
+Current failed test : org.apache.commons.lang3.math.NumberUtilsTest::testStringCreateNumberEnsureNoPrecisionLoss_purify_2 | 18/10/27 11:43
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( ! ( f . isInfinite ( ) == ( f . floatValue ( ) == 0.0F && ! allZeros ) ) ) { 
+Time : 18/10/27 11:53
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( ! ( f . isInfinite ( ) || ( f . floatValue ( ) == 0.0F || ! allZeros ) ) ) { 
+Time : 18/10/27 11:55
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( ! ( f . isInfinite ( ) || ( f . floatValue ( ) == 0.0F != ! allZeros ) ) ) { 
+Time : 18/10/27 11:55
+----------------------------------------
+Timeout time : 18/10/27 11:58
+Current failed test : org.apache.commons.lang3.math.NumberUtilsTest::testStringCreateNumberEnsureNoPrecisionLoss_purify_3 | 18/10/27 11:58
+Timeout time : 18/10/27 12:19

@@ -1,0 +1,13 @@
+=================================================
+Project : math_65	start : 18/10/26 11:06
+Current failed test : org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest::testCircleFitting_purify_5 | 18/10/26 11:07
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+chiSquare += residual * residual * residualsWeights [ i ] ; 
+Time : 18/10/26 11:17
+----------------------------------------
+Success time : 18/10/26 11:17
+Current failed test : org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest::testCircleFitting_purify_6 | 18/10/26 11:17
+Already fixed : org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest::testCircleFitting_purify_6

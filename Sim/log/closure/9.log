@@ -1,0 +1,4 @@
+=================================================
+Project : closure_9	start : 18/10/29 14:12
+Current failed test : com.google.javascript.jscomp.ProcessCommonJSModulesTest::testGuessModuleName | 18/10/29 14:12
+Timeout time : 18/10/29 14:45

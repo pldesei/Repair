@@ -1,0 +1,4 @@
+=================================================
+Project : closure_71	start : 18/10/30 23:53
+Current failed test : com.google.javascript.jscomp.CheckAccessControlsTest::testNoPrivateAccessForProperties6 | 18/10/30 23:53
+Timeout time : 18/10/31 00:31

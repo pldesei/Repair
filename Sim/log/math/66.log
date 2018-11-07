@@ -1,0 +1,27 @@
+=================================================
+Project : math_66	start : 18/10/26 11:18
+Current failed test : org.apache.commons.math.optimization.univariate.BrentOptimizerTest::testQuinticMinStatistics_purify_1 | 18/10/26 11:19
+Timeout time : 18/10/26 11:22
+Current failed test : org.apache.commons.math.optimization.univariate.BrentOptimizerTest::testSinMin_purify_3 | 18/10/26 11:22
+Timeout time : 18/10/26 11:25
+Current failed test : org.apache.commons.math.optimization.univariate.BrentOptimizerTest::testSinMin_purify_5 | 18/10/26 11:25
+Timeout time : 18/10/26 11:28
+Current failed test : org.apache.commons.math.optimization.univariate.BrentOptimizerTest::testSinMin_purify_8 | 18/10/26 11:28
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return maxEvaluations ; 
+Time : 18/10/26 11:29
+----------------------------------------
+Timeout time : 18/10/26 11:31
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testSinMin_purify_3 | 18/10/26 11:31
+Timeout time : 18/10/26 11:39
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_3 | 18/10/26 11:39
+Timeout time : 18/10/26 11:42
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_4 | 18/10/26 11:42
+Timeout time : 18/10/26 11:45
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_8 | 18/10/26 11:45
+Timeout time : 18/10/26 11:48
+Current failed test : org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin_purify_9 | 18/10/26 11:48
+Timeout time : 18/10/26 11:56

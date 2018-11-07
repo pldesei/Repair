@@ -1,0 +1,11 @@
+=================================================
+Project : closure_64	start : 18/10/31 00:31
+Current failed test : com.google.javascript.jscomp.CommandLineRunnerTest::testES5StrictUseStrictMultipleInputs_purify_2 | 18/10/31 00:31
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+options . setLanguageIn ( CompilerOptions . LanguageMode . ECMASCRIPT5 ) ; 
+Time : 18/10/31 00:52
+----------------------------------------
+Timeout time : 18/10/31 01:02

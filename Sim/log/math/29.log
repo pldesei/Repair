@@ -1,0 +1,8 @@
+=================================================
+Project : math_29	start : 18/10/25 12:18
+Current failed test : org.apache.commons.math3.linear.SparseRealVectorTest::testEbeMultiplySameType | 18/10/25 12:18
+Timeout time : 18/10/25 12:29
+Current failed test : org.apache.commons.math3.linear.SparseRealVectorTest::testEbeDivideMixedTypes | 18/10/25 12:29
+Timeout time : 18/10/25 12:40
+Current failed test : org.apache.commons.math3.linear.SparseRealVectorTest::testEbeMultiplyMixedTypes | 18/10/25 12:40
+Timeout time : 18/10/25 12:50

@@ -1,0 +1,4 @@
+=================================================
+Project : math_83	start : 18/10/26 19:45
+Current failed test : org.apache.commons.math.optimization.linear.SimplexSolverTest::testMath286 | 18/10/26 19:46
+Timeout time : 18/10/26 20:17

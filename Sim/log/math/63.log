@@ -1,0 +1,11 @@
+=================================================
+Project : math_63	start : 18/10/26 06:24
+Current failed test : org.apache.commons.math.util.MathUtilsTest::testArrayEquals | 18/10/26 06:24
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return ( Double . isInfinite ( x ) && Double . isNaN ( y ) ) || x == y ; 
+Time : 18/10/26 06:25
+----------------------------------------
+Success time : 18/10/26 06:25

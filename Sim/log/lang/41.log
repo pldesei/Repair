@@ -1,0 +1,36 @@
+=================================================
+Project : lang_41	start : 18/10/28 09:04
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_4 | 18/10/28 09:05
+Timeout time : 18/10/28 09:07
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_5 | 18/10/28 09:07
+Timeout time : 18/10/28 09:09
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_14 | 18/10/28 09:09
+Timeout time : 18/10/28 09:11
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_15 | 18/10/28 09:11
+Timeout time : 18/10/28 09:12
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_16 | 18/10/28 09:12
+Timeout time : 18/10/28 09:14
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_17 | 18/10/28 09:14
+Timeout time : 18/10/28 09:16
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_18 | 18/10/28 09:16
+Timeout time : 18/10/28 09:18
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_19 | 18/10/28 09:18
+Timeout time : 18/10/28 09:19
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_20 | 18/10/28 09:19
+Timeout time : 18/10/28 09:21
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_21 | 18/10/28 09:21
+Timeout time : 18/10/28 09:23
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_22 | 18/10/28 09:23
+Timeout time : 18/10/28 09:25
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_23 | 18/10/28 09:25
+Timeout time : 18/10/28 09:26
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class_purify_24 | 18/10/28 09:26
+Timeout time : 18/10/28 09:28
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getPackageName_Class_purify_4 | 18/10/28 09:28
+Timeout time : 18/10/28 09:30
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getPackageName_Class_purify_13 | 18/10/28 09:30
+Timeout time : 18/10/28 09:32
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getPackageName_Class_purify_14 | 18/10/28 09:32
+Timeout time : 18/10/28 09:33
+Current failed test : org.apache.commons.lang.ClassUtilsTest::test_getPackageName_Class_purify_15 | 18/10/28 09:33
+Timeout time : 18/10/28 09:35

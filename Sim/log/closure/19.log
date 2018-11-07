@@ -1,0 +1,4 @@
+=================================================
+Project : closure_19	start : 18/10/29 19:37
+Current failed test : com.google.javascript.jscomp.TypeInferenceTest::testNoThisInference | 18/10/29 19:37
+Timeout time : 18/10/29 20:10

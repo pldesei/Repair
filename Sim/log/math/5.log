@@ -1,0 +1,610 @@
+=================================================
+Project : math_5	start : 18/08/06 16:46
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/08/06 16:46
+Mon Aug 06 16:46:17 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/08/06 16:46
+----------------------------------------
+=================================================
+Project : math_5	start : 18/08/06 16:46
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/08/06 16:46
+Mon Aug 06 16:46:59 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/08/06 16:47
+----------------------------------------
+Mon Aug 06 16:49:43 CST 2018 org.apache.commons.math3.complex.Complex,1228
+Mon Aug 06 16:50:14 CST 2018 org.apache.commons.math3.complex.Complex,304
+Mon Aug 06 16:50:14 CST 2018 org.apache.commons.math3.complex.Complex,300
+Mon Aug 06 16:50:34 CST 2018 org.apache.commons.math3.complex.Complex,348
+Mon Aug 06 16:50:45 CST 2018 org.apache.commons.math3.complex.Complex,344
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(other instanceof Complex){
+Complex c=(Complex)other;
+if(c.isNaN){
+return isNaN;
+}else {
+return this.isNaN();
+}
+}
+
+Time : 18/08/06 16:52
+----------------------------------------
+Mon Aug 06 16:56:25 CST 2018 org.apache.commons.math3.complex.Complex,345
+Mon Aug 06 16:56:26 CST 2018 org.apache.commons.math3.complex.Complex,343
+Mon Aug 06 16:56:26 CST 2018 org.apache.commons.math3.complex.Complex,340
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(this!=other){
+return true;
+}
+
+Time : 18/08/06 16:57
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(this!=null){
+return true;
+}
+
+Time : 18/08/06 17:07
+----------------------------------------
+=================================================
+Project : math_5	start : 18/08/06 17:11
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/08/06 17:11
+Mon Aug 06 17:11:54 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/08/06 17:12
+----------------------------------------
+=================================================
+Project : math_5	start : 18/08/06 17:24
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/08/06 17:24
+Mon Aug 06 17:24:36 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/08/06 17:24
+----------------------------------------
+Mon Aug 06 17:26:58 CST 2018 org.apache.commons.math3.complex.Complex,1228
+Mon Aug 06 17:27:29 CST 2018 org.apache.commons.math3.complex.Complex,304
+Mon Aug 06 17:27:30 CST 2018 org.apache.commons.math3.complex.Complex,300
+Mon Aug 06 17:27:49 CST 2018 org.apache.commons.math3.complex.Complex,348
+Mon Aug 06 17:28:01 CST 2018 org.apache.commons.math3.complex.Complex,344
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(other instanceof Complex){
+Complex c=(Complex)other;
+if(c.isNaN){
+return isNaN;
+}else {
+return this.isNaN();
+}
+}
+
+Time : 18/08/06 17:29
+----------------------------------------
+Mon Aug 06 17:33:23 CST 2018 org.apache.commons.math3.complex.Complex,345
+Mon Aug 06 17:33:24 CST 2018 org.apache.commons.math3.complex.Complex,343
+Mon Aug 06 17:33:24 CST 2018 org.apache.commons.math3.complex.Complex,340
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(this!=other){
+return true;
+}
+
+Time : 18/08/06 17:34
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(this!=null){
+return true;
+}
+
+Time : 18/08/06 17:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(other instanceof Complex){
+return true;
+}
+
+Time : 18/08/06 17:55
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(other instanceof Complex){
+return isNaN;
+}
+
+Time : 18/08/06 18:05
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(!isInfinite){
+return true;
+}
+
+Time : 18/08/06 18:07
+----------------------------------------
+Mon Aug 06 18:17:55 CST 2018 Mon Aug 06 18:17:55 CST 2018 : org.apache.commons.math3.complex.Complex,98=>Find no block
+Mon Aug 06 18:17:55 CST 2018 org.apache.commons.math3.complex.Complex,99
+Mon Aug 06 18:19:00 CST 2018 org.apache.commons.math3.complex.Complex,100
+Mon Aug 06 18:19:00 CST 2018 org.apache.commons.math3.complex.Complex,102
+Mon Aug 06 18:19:00 CST 2018 org.apache.commons.math3.complex.Complex,103
+Mon Aug 06 18:19:00 CST 2018 Mon Aug 06 18:19:00 CST 2018 : org.apache.commons.math3.complex.Complex,105=>Find no block
+Mon Aug 06 18:19:00 CST 2018 Mon Aug 06 18:19:00 CST 2018 : org.apache.commons.math3.complex.Complex,59=>Find no block
+Mon Aug 06 18:19:00 CST 2018 Mon Aug 06 18:19:00 CST 2018 : org.apache.commons.math3.complex.Complex,62=>Find no block
+Mon Aug 06 18:19:00 CST 2018 Mon Aug 06 18:19:00 CST 2018 : org.apache.commons.math3.complex.Complex,65=>Find no block
+Mon Aug 06 18:19:01 CST 2018 Mon Aug 06 18:19:01 CST 2018 : org.apache.commons.math3.complex.Complex,67=>Find no block
+Mon Aug 06 18:19:01 CST 2018 Mon Aug 06 18:19:01 CST 2018 : org.apache.commons.math3.complex.Complex,69=>Find no block
+Mon Aug 06 18:19:01 CST 2018 org.apache.commons.math3.complex.Complex,89
+Mon Aug 06 18:19:03 CST 2018 Mon Aug 06 18:19:03 CST 2018 : org.apache.commons.math3.complex.Complex,90=>Find no block
+Mon Aug 06 18:19:03 CST 2018 org.apache.commons.math3.complex.Complex,116
+Mon Aug 06 18:19:21 CST 2018 org.apache.commons.math3.complex.Complex,117
+Mon Aug 06 18:19:21 CST 2018 org.apache.commons.math3.complex.Complex,119
+Mon Aug 06 18:20:30 CST 2018 org.apache.commons.math3.complex.Complex,120
+Mon Aug 06 18:20:31 CST 2018 org.apache.commons.math3.complex.Complex,122
+=================================================
+Project : math_5	start : 18/08/06 18:39
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/08/06 18:39
+Mon Aug 06 18:39:06 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/08/06 18:39
+----------------------------------------
+Mon Aug 06 18:41:28 CST 2018 org.apache.commons.math3.complex.Complex,1228
+Mon Aug 06 18:42:00 CST 2018 org.apache.commons.math3.complex.Complex,304
+Mon Aug 06 18:42:00 CST 2018 org.apache.commons.math3.complex.Complex,300
+Mon Aug 06 18:42:20 CST 2018 org.apache.commons.math3.complex.Complex,348
+Mon Aug 06 18:42:32 CST 2018 org.apache.commons.math3.complex.Complex,344
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(other instanceof Complex){
+Complex c=(Complex)other;
+if(c.isNaN){
+return isNaN;
+}else {
+return this.isNaN();
+}
+}
+
+Time : 18/08/06 18:44
+----------------------------------------
+Mon Aug 06 18:47:57 CST 2018 org.apache.commons.math3.complex.Complex,345
+Mon Aug 06 18:47:57 CST 2018 org.apache.commons.math3.complex.Complex,343
+Mon Aug 06 18:47:57 CST 2018 org.apache.commons.math3.complex.Complex,340
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(this!=other){
+return true;
+}
+
+Time : 18/08/06 18:48
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(this!=null){
+return true;
+}
+
+Time : 18/08/06 18:59
+----------------------------------------
+=================================================
+Project : math_5	start : 18/08/06 19:09
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/08/06 19:09
+Mon Aug 06 19:09:40 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/08/06 19:09
+----------------------------------------
+Mon Aug 06 19:12:05 CST 2018 org.apache.commons.math3.complex.Complex,1228
+Mon Aug 06 19:12:37 CST 2018 org.apache.commons.math3.complex.Complex,304
+Mon Aug 06 19:12:38 CST 2018 org.apache.commons.math3.complex.Complex,300
+Mon Aug 06 19:12:59 CST 2018 org.apache.commons.math3.complex.Complex,348
+Mon Aug 06 19:13:12 CST 2018 org.apache.commons.math3.complex.Complex,344
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(other instanceof Complex){
+Complex c=(Complex)other;
+if(c.isNaN){
+return isNaN;
+}else {
+return this.isNaN();
+}
+}
+
+Time : 18/08/06 19:15
+----------------------------------------
+Mon Aug 06 19:19:19 CST 2018 org.apache.commons.math3.complex.Complex,345
+Mon Aug 06 19:19:20 CST 2018 org.apache.commons.math3.complex.Complex,343
+Mon Aug 06 19:19:20 CST 2018 org.apache.commons.math3.complex.Complex,340
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(this!=other){
+return true;
+}
+
+Time : 18/08/06 19:20
+----------------------------------------
+=================================================
+Project : math_5	start : 18/08/06 19:24
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/08/06 19:24
+Mon Aug 06 19:24:43 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/08/06 19:25
+----------------------------------------
+Mon Aug 06 19:27:33 CST 2018 org.apache.commons.math3.complex.Complex,1228
+Mon Aug 06 19:28:09 CST 2018 org.apache.commons.math3.complex.Complex,304
+Mon Aug 06 19:28:09 CST 2018 org.apache.commons.math3.complex.Complex,300
+Mon Aug 06 19:28:32 CST 2018 org.apache.commons.math3.complex.Complex,348
+Mon Aug 06 19:28:46 CST 2018 org.apache.commons.math3.complex.Complex,344
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(other instanceof Complex){
+Complex c=(Complex)other;
+if(c.isNaN){
+return isNaN;
+}else {
+return this.isNaN();
+}
+}
+
+Time : 18/08/06 19:30
+----------------------------------------
+Mon Aug 06 19:34:26 CST 2018 org.apache.commons.math3.complex.Complex,345
+Mon Aug 06 19:34:26 CST 2018 org.apache.commons.math3.complex.Complex,343
+Mon Aug 06 19:34:27 CST 2018 org.apache.commons.math3.complex.Complex,340
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(this!=other){
+return true;
+}
+
+Time : 18/08/06 19:35
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(this!=null){
+return true;
+}
+
+Time : 18/08/06 19:45
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(other instanceof Complex){
+return true;
+}
+
+Time : 18/08/06 19:56
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(other instanceof Complex){
+return isNaN;
+}
+
+Time : 18/08/06 20:06
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(!isInfinite){
+return true;
+}
+
+Time : 18/08/06 20:08
+----------------------------------------
+Mon Aug 06 20:18:58 CST 2018 Mon Aug 06 20:18:58 CST 2018 : org.apache.commons.math3.complex.Complex,98=>Find no block
+Mon Aug 06 20:18:58 CST 2018 org.apache.commons.math3.complex.Complex,99
+Mon Aug 06 20:21:30 CST 2018 org.apache.commons.math3.complex.Complex,100
+Mon Aug 06 20:21:30 CST 2018 org.apache.commons.math3.complex.Complex,102
+Mon Aug 06 20:21:30 CST 2018 org.apache.commons.math3.complex.Complex,103
+Mon Aug 06 20:21:30 CST 2018 Mon Aug 06 20:21:30 CST 2018 : org.apache.commons.math3.complex.Complex,105=>Find no block
+Mon Aug 06 20:21:30 CST 2018 Mon Aug 06 20:21:30 CST 2018 : org.apache.commons.math3.complex.Complex,59=>Find no block
+Mon Aug 06 20:21:30 CST 2018 Mon Aug 06 20:21:30 CST 2018 : org.apache.commons.math3.complex.Complex,62=>Find no block
+Mon Aug 06 20:21:30 CST 2018 Mon Aug 06 20:21:30 CST 2018 : org.apache.commons.math3.complex.Complex,65=>Find no block
+Mon Aug 06 20:21:31 CST 2018 Mon Aug 06 20:21:31 CST 2018 : org.apache.commons.math3.complex.Complex,67=>Find no block
+Mon Aug 06 20:21:31 CST 2018 Mon Aug 06 20:21:31 CST 2018 : org.apache.commons.math3.complex.Complex,69=>Find no block
+Mon Aug 06 20:21:31 CST 2018 org.apache.commons.math3.complex.Complex,89
+Mon Aug 06 20:21:33 CST 2018 Mon Aug 06 20:21:33 CST 2018 : org.apache.commons.math3.complex.Complex,90=>Find no block
+Mon Aug 06 20:21:33 CST 2018 org.apache.commons.math3.complex.Complex,116
+Mon Aug 06 20:21:51 CST 2018 org.apache.commons.math3.complex.Complex,117
+Mon Aug 06 20:21:51 CST 2018 org.apache.commons.math3.complex.Complex,119
+Mon Aug 06 20:23:00 CST 2018 org.apache.commons.math3.complex.Complex,120
+Mon Aug 06 20:23:00 CST 2018 org.apache.commons.math3.complex.Complex,122
+=================================================
+Project : math_5	start : 18/08/06 20:38
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/08/06 20:38
+Mon Aug 06 20:38:50 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/08/06 20:39
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.7606388292556647 : [/root/BugRepair/defects4j/buggyVersions/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java=>0,0]
+if(Double.isInfinite(real)||Double.isInfinite(imaginary)){
+return INF;
+}
+
+Time : 18/08/06 20:40
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/root/BugRepair/defects4j/buggyVersions/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java=>304,306]
+if(real==0.0&&imaginary==0.0){
+return NaN;
+}
+
+Time : 18/08/06 20:40
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/root/BugRepair/defects4j/buggyVersions/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java=>304,306]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/08/06 20:40
+----------------------------------------
+Success time : 18/08/06 20:40
+=================================================
+Project : math_5	start : 18/10/22 09:29
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/10/22 09:30
+Mon Oct 22 09:30:03 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/10/22 09:30
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.7606388292556647 : [/root/BugRepair/defects4j/buggyVersions/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java=>0,0]
+if(Double.isInfinite(real)||Double.isInfinite(imaginary)){
+return INF;
+}
+
+Time : 18/10/22 09:32
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/root/BugRepair/defects4j/buggyVersions/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java=>304,306]
+if(real==0.0&&imaginary==0.0){
+return NaN;
+}
+
+Time : 18/10/22 09:32
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/root/BugRepair/defects4j/buggyVersions/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java=>304,306]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/10/22 09:32
+----------------------------------------
+Success time : 18/10/22 09:32
+=================================================
+Project : math_5	start : 18/10/22 09:36
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/10/22 09:36
+=================================================
+Project : math_5	start : 18/10/22 09:40
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/10/22 09:40
+Mon Oct 22 09:40:24 CST 2018 org.apache.commons.math3.complex.Complex,305
+=================================================
+Project : math_5	start : 18/10/22 09:40
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/10/22 09:40
+Mon Oct 22 09:40:53 CST 2018 org.apache.commons.math3.complex.Complex,305
+=================================================
+Project : math_5	start : 18/10/22 09:51
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/10/22 09:51
+Mon Oct 22 09:51:38 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/10/22 09:52
+----------------------------------------
+=================================================
+Project : math_5	start : 18/10/22 09:53
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/10/22 09:53
+Mon Oct 22 09:53:23 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/10/22 09:53
+----------------------------------------
+Mon Oct 22 09:56:22 CST 2018 org.apache.commons.math3.complex.Complex,1228
+Mon Oct 22 09:57:03 CST 2018 org.apache.commons.math3.complex.Complex,304
+Mon Oct 22 09:57:03 CST 2018 org.apache.commons.math3.complex.Complex,300
+Mon Oct 22 09:57:29 CST 2018 org.apache.commons.math3.complex.Complex,348
+Mon Oct 22 09:57:47 CST 2018 org.apache.commons.math3.complex.Complex,344
+=================================================
+Project : math_5	start : 18/10/22 10:30
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/10/22 10:30
+Mon Oct 22 10:30:27 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/10/22 10:30
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.7606388292556647 : [/root/BugRepair/defects4j/buggyVersions/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java=>0,0]
+if(Double.isInfinite(real)||Double.isInfinite(imaginary)){
+return INF;
+}
+
+Time : 18/10/22 10:32
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/root/BugRepair/defects4j/buggyVersions/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java=>304,306]
+if(real==0.0&&imaginary==0.0){
+return NaN;
+}
+
+Time : 18/10/22 10:32
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/root/BugRepair/defects4j/buggyVersions/math/math_5_buggy/src/main/java/org/apache/commons/math3/complex/Complex.java=>304,306]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/10/22 10:32
+----------------------------------------
+Success time : 18/10/22 10:32
+=================================================
+Project : math_5	start : 18/10/22 10:35
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/10/22 10:35
+Mon Oct 22 10:35:48 CST 2018 org.apache.commons.math3.complex.Complex,305
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if(real==0.0&&imaginary==0.0){
+return INF;
+}
+
+Time : 18/10/22 10:36
+----------------------------------------
+=================================================
+Project : math_5	start : 18/10/24 23:43
+Current failed test : org.apache.commons.math3.complex.ComplexTest::testReciprocalZero | 18/10/24 23:43
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( c . isInfinite ) { 
+Time : 18/10/24 23:57
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( this != other ) { 
+Time : 18/10/25 00:02
+----------------------------------------
+Timeout time : 18/10/25 00:15

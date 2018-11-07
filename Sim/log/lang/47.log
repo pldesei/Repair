@@ -1,0 +1,6 @@
+=================================================
+Project : lang_47	start : 18/10/28 10:08
+Current failed test : org.apache.commons.lang.text.StrBuilderTest::testLang412Left | 18/10/28 10:09
+Timeout time : 18/10/28 10:25
+Current failed test : org.apache.commons.lang.text.StrBuilderTest::testLang412Right | 18/10/28 10:25
+Timeout time : 18/10/28 10:41

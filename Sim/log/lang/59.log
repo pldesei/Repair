@@ -1,0 +1,22 @@
+=================================================
+Project : lang_59	start : 18/10/23 11:29
+Current failed test : org.apache.commons.lang.text.StrBuilderAppendInsertTest::testLang299 | 18/10/23 11:29
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+str . getChars ( 0 , width , buffer , size ) ; 
+Time : 18/10/23 11:32
+----------------------------------------
+Success time : 18/10/23 11:33
+=================================================
+Project : lang_59	start : 18/10/28 15:57
+Current failed test : org.apache.commons.lang.text.StrBuilderAppendInsertTest::testLang299 | 18/10/28 15:57
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+ensureCapacity ( padChar + width ) ; 
+Time : 18/10/28 16:01
+----------------------------------------
+Success time : 18/10/28 16:01

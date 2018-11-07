@@ -1,0 +1,11 @@
+=================================================
+Project : closure_111	start : 18/10/31 21:29
+Current failed test : com.google.javascript.jscomp.ClosureReverseAbstractInterpreterTest::testGoogIsArray2 | 18/10/31 21:29
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+if ( p . type != null ) { 
+Time : 18/10/31 21:53
+----------------------------------------
+Timeout time : 18/10/31 22:02

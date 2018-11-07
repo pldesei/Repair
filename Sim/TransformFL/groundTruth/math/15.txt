@@ -1,0 +1,2 @@
+null
+org.apache.commons.math3.util.FastMath#double#pow#?,double,double

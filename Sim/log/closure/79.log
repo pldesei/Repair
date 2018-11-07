@@ -1,0 +1,12 @@
+=================================================
+Project : closure_79	start : 18/10/31 04:13
+Current failed test : com.google.javascript.jscomp.VarCheckTest::testCallInExterns | 18/10/31 04:14
+Timeout time : 18/10/31 04:25
+Current failed test : com.google.javascript.jscomp.NormalizeTest::testIssue | 18/10/31 04:25
+Timeout time : 18/10/31 04:36
+Current failed test : com.google.javascript.jscomp.VarCheckTest::testPropReferenceInExterns1 | 18/10/31 04:36
+Timeout time : 18/10/31 04:47
+Current failed test : com.google.javascript.jscomp.VarCheckTest::testVarReferenceInExterns | 18/10/31 04:47
+Timeout time : 18/10/31 04:58
+Current failed test : com.google.javascript.jscomp.VarCheckTest::testPropReferenceInExterns3 | 18/10/31 04:58
+Timeout time : 18/10/31 05:09

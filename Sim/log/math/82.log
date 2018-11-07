@@ -1,0 +1,18 @@
+=================================================
+Project : math_82	start : 18/10/26 20:17
+Current failed test : org.apache.commons.math.optimization.linear.SimplexSolverTest::testMath288 | 18/10/26 20:17
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+matrix [ row ] [ getSlackVariableOffset ( ) + slackVar ++ ] = 2 ; 
+Time : 18/10/26 20:22
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+matrix [ row ] [ getSlackVariableOffset ( ) + slackVar ++ ] = 3 ; 
+Time : 18/10/26 20:23
+----------------------------------------
+Timeout time : 18/10/26 20:55

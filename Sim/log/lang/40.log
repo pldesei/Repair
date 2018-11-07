@@ -1,0 +1,4 @@
+=================================================
+Project : lang_40	start : 18/10/28 08:33
+Current failed test : org.apache.commons.lang.StringUtilsEqualsIndexOfTest::testContainsIgnoreCase_LocaleIndependence | 18/10/28 08:33
+Timeout time : 18/10/28 09:04

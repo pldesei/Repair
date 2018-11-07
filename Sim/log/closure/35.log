@@ -1,0 +1,11 @@
+=================================================
+Project : closure_35	start : 18/10/30 04:07
+Current failed test : com.google.javascript.jscomp.TypeCheckTest::testIssue669 | 18/10/30 04:07
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return true ; 
+Time : 18/10/30 04:07
+----------------------------------------
+Timeout time : 18/10/30 04:38

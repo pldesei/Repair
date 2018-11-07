@@ -1,0 +1,18 @@
+=================================================
+Project : closure_89	start : 18/10/31 13:58
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testAddPropertyToUncollapsibleFunctionInLocalScopeDepth1 | 18/10/31 13:59
+Timeout time : 18/10/31 14:05
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testAddPropertyToChildOfUncollapsibleFunctionInLocalScope | 18/10/31 14:05
+Timeout time : 18/10/31 14:11
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testAddPropertyToUncollapsibleFunctionInLocalScopeDepth2 | 18/10/31 14:11
+Timeout time : 18/10/31 14:18
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testAliasCreatedForFunctionDepth1_3 | 18/10/31 14:18
+Timeout time : 18/10/31 14:24
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testAliasCreatedForFunctionDepth1_2 | 18/10/31 14:24
+Timeout time : 18/10/31 14:30
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testAliasCreatedForFunctionDepth2 | 18/10/31 14:30
+Timeout time : 18/10/31 14:37
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testAliasCreatedForFunctionDepth1_1 | 18/10/31 14:37
+Timeout time : 18/10/31 14:43
+Current failed test : com.google.javascript.jscomp.CollapsePropertiesTest::testAddPropertyToUncollapsibleNamedCtorInLocalScopeDepth1 | 18/10/31 14:43
+Timeout time : 18/10/31 14:49

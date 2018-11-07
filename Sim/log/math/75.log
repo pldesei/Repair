@@ -1,0 +1,33 @@
+=================================================
+Project : math_75	start : 18/10/24 01:15
+Current failed test : org.apache.commons.math.stat.FrequencyTest::testPcts | 18/10/24 01:15
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return getPct ( ( Comparable < ? > ) v ) ; 
+Time : 18/10/24 01:16
+----------------------------------------
+Success time : 18/10/24 01:16
+=================================================
+Project : math_75	start : 18/10/24 01:54
+Current failed test : org.apache.commons.math.stat.FrequencyTest::testPcts | 18/10/24 01:55
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return getPct ( ( Comparable < ? > ) v ) ; 
+Time : 18/10/24 01:55
+----------------------------------------
+Success time : 18/10/24 01:55
+=================================================
+Project : math_75	start : 18/10/26 16:48
+Current failed test : org.apache.commons.math.stat.FrequencyTest::testPcts | 18/10/26 16:48
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return getPct ( ( Comparable < ? > ) v ) ; 
+Time : 18/10/26 16:48
+----------------------------------------
+Success time : 18/10/26 16:48

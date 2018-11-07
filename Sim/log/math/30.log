@@ -1,0 +1,11 @@
+=================================================
+Project : math_30	start : 18/10/25 13:56
+Current failed test : org.apache.commons.math3.stat.inference.MannWhitneyUTestTest::testBigDataSet | 18/10/25 13:56
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+ret = Double . POSITIVE_INFINITY ; 
+Time : 18/10/25 13:57
+----------------------------------------
+Timeout time : 18/10/25 14:27

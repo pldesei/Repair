@@ -1,0 +1,4 @@
+=================================================
+Project : math_40	start : 18/10/25 20:43
+Current failed test : org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolverTest::testIssue716 | 18/10/25 20:43
+Timeout time : 18/10/25 21:14

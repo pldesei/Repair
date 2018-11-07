@@ -1,0 +1,18 @@
+=================================================
+Project : closure_116	start : 18/11/01 03:04
+Current failed test : com.google.javascript.jscomp.FunctionInjectorTest::testIssue1101a | 18/11/01 03:05
+Timeout time : 18/11/01 03:13
+Current failed test : com.google.javascript.jscomp.FunctionInjectorTest::testIssue1101b | 18/11/01 03:13
+Timeout time : 18/11/01 03:21
+Current failed test : com.google.javascript.jscomp.InlineFunctionsTest::testIssue1101 | 18/11/01 03:21
+Timeout time : 18/11/01 03:29
+Current failed test : com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions6 | 18/11/01 03:29
+Timeout time : 18/11/01 03:37
+Current failed test : com.google.javascript.jscomp.InlineFunctionsTest::testBug4944818 | 18/11/01 03:37
+Timeout time : 18/11/01 03:45
+Current failed test : com.google.javascript.jscomp.InlineFunctionsTest::testInlineIfParametersModified9 | 18/11/01 03:45
+Timeout time : 18/11/01 03:53
+Current failed test : com.google.javascript.jscomp.InlineFunctionsTest::testInlineIfParametersModified8 | 18/11/01 03:53
+Timeout time : 18/11/01 04:00
+Current failed test : com.google.javascript.jscomp.InlineFunctionsTest::testDoubleInlining2 | 18/11/01 04:00
+Timeout time : 18/11/01 04:08

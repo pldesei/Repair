@@ -1,0 +1,1 @@
+com.google.javascript.jscomp.PeepholeReplaceKnownMethods#Node#tryFoldArrayJoin#?,Node

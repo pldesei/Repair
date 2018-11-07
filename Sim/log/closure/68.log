@@ -1,0 +1,11 @@
+=================================================
+Project : closure_68	start : 18/10/30 22:17
+Current failed test : com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testIssue477 | 18/10/30 22:18
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+return JsDocToken . EOC ; 
+Time : 18/10/30 22:32
+----------------------------------------
+Timeout time : 18/10/30 22:49

@@ -1,0 +1,4 @@
+null
+com.google.javascript.jscomp.ScopedAliases$Traversal#void#fixTypeNode#?,Node
+com.google.javascript.jscomp.ScopedAliases$AliasedTypeNode#?#AliasedTypeNode#?,Node,String
+com.google.javascript.jscomp.ScopedAliases$AliasedTypeNode#void#appluAlias#?

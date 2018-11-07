@@ -1,0 +1,25 @@
+=================================================
+Project : math_98	start : 18/10/27 03:13
+Current failed test : org.apache.commons.math.linear.BigMatrixImplTest::testMath209_purify_1 | 18/10/27 03:13
+Timeout time : 18/10/27 03:16
+Current failed test : org.apache.commons.math.linear.BigMatrixImplTest::testMath209_purify_2 | 18/10/27 03:16
+
+----------------------------------------
+----------------------------------------
+Pass Single Test : [=>0,0]
+final int nRows = this . getColumnDimension ( ) ; 
+Time : 18/10/27 03:19
+----------------------------------------
+Success time : 18/10/27 03:20
+Current failed test : org.apache.commons.math.linear.BigMatrixImplTest::testMath209_purify_3 | 18/10/27 03:20
+Already fixed : org.apache.commons.math.linear.BigMatrixImplTest::testMath209_purify_3
+Current failed test : org.apache.commons.math.linear.BigMatrixImplTest::testMath209_purify_4 | 18/10/27 03:20
+Timeout time : 18/10/27 03:23
+Current failed test : org.apache.commons.math.linear.RealMatrixImplTest::testMath209_purify_1 | 18/10/27 03:23
+Timeout time : 18/10/27 03:26
+Current failed test : org.apache.commons.math.linear.RealMatrixImplTest::testMath209_purify_2 | 18/10/27 03:26
+Timeout time : 18/10/27 03:30
+Current failed test : org.apache.commons.math.linear.RealMatrixImplTest::testMath209_purify_3 | 18/10/27 03:30
+Timeout time : 18/10/27 03:33
+Current failed test : org.apache.commons.math.linear.RealMatrixImplTest::testMath209_purify_4 | 18/10/27 03:33
+Timeout time : 18/10/27 03:36

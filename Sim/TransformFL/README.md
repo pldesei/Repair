@@ -1,0 +1,1 @@
+### 用于将语句级别的定位转换为函数级别的定位结果，同时根据提供的ground truth计算正确率，为项目 StateCoverLocator项目所写

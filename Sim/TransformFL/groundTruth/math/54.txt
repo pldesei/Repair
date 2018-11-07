@@ -1,0 +1,2 @@
+org.apache.commons.math.dfp.Dfp#double#toDouble#?
+org.apache.commons.math.dfp.Dfp#?#Dfp#?,DfpField,double

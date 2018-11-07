@@ -1,0 +1,1 @@
+com.google.javascript.jscomp.FoldConstants#void#tryFoldStringJoin#?,NodeTraversal,Node,Node,Node,Node

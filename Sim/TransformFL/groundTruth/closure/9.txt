@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.ProcessCommonJSModules$ProcessCommonJsModulesCallback#void#visitScript#?,NodeTraversal,Node
+com.google.javascript.jscomp.ProcessCommonJSModules#String#normalizeSourceName#?,String

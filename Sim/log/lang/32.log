@@ -1,0 +1,6 @@
+=================================================
+Project : lang_32	start : 18/10/28 04:34
+Current failed test : org.apache.commons.lang3.builder.HashCodeBuilderTest::testReflectionObjectCycle_purify_1 | 18/10/28 04:34
+Timeout time : 18/10/28 04:50
+Current failed test : org.apache.commons.lang3.builder.HashCodeBuilderTest::testReflectionObjectCycle_purify_2 | 18/10/28 04:50
+Timeout time : 18/10/28 05:07
